@@ -1,0 +1,8 @@
+{
+  "versionCode": 1,
+  "versionName": "1.0.0",
+  "url": "https://github.com/apm-medyka/navia-launcher-releases/releases/latest/download/navia-launcher-1.0.0.apk",
+  "sizeBytes": 94344174,
+  "sha256": "1256816aab438804e1ab8a192ef3bdd9dcba51fc4e6a073749e89c0b8ce2d720",
+  "releaseNotes": "Pierwsza wersja publikowana przez mechanizm samoaktualizacji."
+}
