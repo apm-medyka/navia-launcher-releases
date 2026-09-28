@@ -1,8 +1,8 @@
 {
-  "versionCode": 2,
-  "versionName": "1.1.0",
-  "url": "https://github.com/apm-medyka/navia-launcher-releases/releases/latest/download/navia-launcher-1.1.0.apk",
+  "versionCode": 3,
+  "versionName": "1.2.0",
+  "url": "https://github.com/apm-medyka/navia-launcher-releases/releases/latest/download/navia-launcher-1.2.0.apk",
   "sizeBytes": 81879607,
-  "sha256": "c63319bf4c4a5776347688ca091c7f08bd9d108d007bde23611b3bf2f5d2e18e",
-  "releaseNotes": "Naprawiona cisza TTS (rezerwa paliwa, plyn do spryskiwaczy), nowa lampka cisnienia oleju, przypomnienia serwisowe, smaczki glosowe po zatankowaniu/serwisie, bezpieczniejsza glosnosc (min. poziom komunikatow, limit pamietanej glosnosci)."
+  "sha256": "bde5b597fb939071991d4eed819e96b1779aa948b3d19e9a04f601d1b4b77051",
+  "releaseNotes": "Nowosc: lektor zapowiada zblizajacy sie prog zwalniajacy, ustap pierwszenstwa, STOP i inne znaki (120/100/50/20 m) - mozna wylaczyc w Ustawieniach -> Ogolne -> Zapowiadanie znakow i progow."
 }
