@@ -1,8 +1,8 @@
 {
-  "versionCode": 9,
-  "versionName": "1.6.1",
-  "url": "https://github.com/apm-medyka/navia-launcher-releases/releases/latest/download/navia-launcher-1.6.1.apk",
+  "versionCode": 10,
+  "versionName": "1.6.2",
+  "url": "https://github.com/apm-medyka/navia-launcher-releases/releases/latest/download/navia-launcher-1.6.2.apk",
   "sizeBytes": 81945147,
-  "sha256": "110f5f86ae111561a4110a6771eb84ca4ad1ce09a07d1a274435cfccbbe5ace0",
-  "releaseNotes": "Nowe motywy kokpitu, radia i muzyki oraz siatka i lista aplikacji dopasowane do wybranego motywu. Jasny Passat z czerwonymi akcentami, klasyczny OEM, Cyberpunk i nocny cyjan. Poprawione zapamietywanie motywu i stabilizacja trybu nocnego. Zebatka ustawien w prawym gornym rogu kontenera auta."
+  "sha256": "cb4ba8d6b7dcdba54ac9a7e942a11063d04731e2c028141a13da8240695efed7",
+  "releaseNotes": "Automatyczny motyw dzien/noc wedlug wschodu i zachodu slonca obliczanych lokalnie z GPS, bez internetu. Ostatnia znana pozycja i godziny zastepcze przy braku GPS. Przelacznik automatu w ustawieniach, sprawdzanie po wybudzeniu i plynne przejscie kolorow. Czcionki akumulatora, paliwa, zasiegu, godziny, daty i pogody powiekszone o 1 sp."
 }
