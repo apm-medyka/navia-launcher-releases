@@ -1,8 +1,8 @@
 {
-  "versionCode": 5,
-  "versionName": "1.4.0",
-  "url": "https://github.com/apm-medyka/navia-launcher-releases/releases/latest/download/navia-launcher-1.4.0.apk",
-  "sizeBytes": 81912379,
-  "sha256": "9cead4404d73bf1cd6144d8034c23e21ad7a5c1710a79a47cdafeb0fcdd6f878",
-  "releaseNotes": "Nowy model średniego spalania i zasięgu ze stabilizacją pomiaru oraz odporniejszym wykrywaniem tankowania. Przebudowany interfejs dopasowany do ekranu stacji: dynamiczne przyciski, czytelniejszy status pojazdu i poprawiony układ wskaźników. Rozbudowane radio: większa prezentacja stacji, poprawione przypisanie logotypów, biblioteka stacji online, wyszukiwanie i dodawanie rozgłośni oraz NEXT/PREV przełączające i automatycznie odtwarzające stacje z biblioteki."
+  "versionCode": 6,
+  "versionName": "1.5.0",
+  "url": "https://github.com/apm-medyka/navia-launcher-releases/releases/latest/download/navia-launcher-1.5.0.apk",
+  "sizeBytes": 81928763,
+  "sha256": "a97ccd416b52217380adea1e4dc73a31e6bc9b93cbc92b92fa4da5bf6e5716b7",
+  "releaseNotes": "Automatyczna propozycja aktualizacji po wybudzeniu, sprawdzanie co 6 godzin, odłożenie przypomnienia na dobę. Ręczna aktualizacja w ustawieniach pozostaje dostępna. Dwuwierszowe nazwy stacji radia i zamykanie szuflad kliknięciem poza nimi."
 }
