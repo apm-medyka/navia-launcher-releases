@@ -1,8 +1,8 @@
 {
-  "versionCode": 7,
-  "versionName": "1.5.1",
-  "url": "https://github.com/apm-medyka/navia-launcher-releases/releases/latest/download/navia-launcher-1.5.1.apk",
-  "sizeBytes": 81928763,
-  "sha256": "4977cd1ed1e699268d9b44fcf03419c041105165b2879bf89a8781aed9f17125",
-  "releaseNotes": "Przezroczyste kontenery akumulatora i paliwa oraz zegara i pogody. Usunięte tła i ramki, wskazania zachowane."
+  "versionCode": 8,
+  "versionName": "1.6.0",
+  "url": "https://github.com/apm-medyka/navia-launcher-releases/releases/latest/download/navia-launcher-1.6.0.apk",
+  "sizeBytes": 81945147,
+  "sha256": "6643538f948c922a4b3e966924f3774dcd282ff5475be7778bf47bd411dd43ac",
+  "releaseNotes": "Cztery dzialajace motywy kolorystyczne: jasny Passat z czerwonymi akcentami, OEM niebiesko-czerwony, Cyberpunk i nocny cyjan. Motywy obejmuja zegary, wskazniki, radio, muzyke i dolne przyciski. Zapamietywanie wyboru i stabilniejszy automatyczny tryb nocny. Przezroczysta zebatka ustawien w prawym gornym rogu kontenera auta."
 }
