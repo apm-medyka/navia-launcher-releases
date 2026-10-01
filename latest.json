@@ -1,8 +1,8 @@
 {
-  "versionCode": 6,
-  "versionName": "1.5.0",
-  "url": "https://github.com/apm-medyka/navia-launcher-releases/releases/latest/download/navia-launcher-1.5.0.apk",
+  "versionCode": 7,
+  "versionName": "1.5.1",
+  "url": "https://github.com/apm-medyka/navia-launcher-releases/releases/latest/download/navia-launcher-1.5.1.apk",
   "sizeBytes": 81928763,
-  "sha256": "a97ccd416b52217380adea1e4dc73a31e6bc9b93cbc92b92fa4da5bf6e5716b7",
-  "releaseNotes": "Automatyczna propozycja aktualizacji po wybudzeniu, sprawdzanie co 6 godzin, odłożenie przypomnienia na dobę. Ręczna aktualizacja w ustawieniach pozostaje dostępna. Dwuwierszowe nazwy stacji radia i zamykanie szuflad kliknięciem poza nimi."
+  "sha256": "4977cd1ed1e699268d9b44fcf03419c041105165b2879bf89a8781aed9f17125",
+  "releaseNotes": "Przezroczyste kontenery akumulatora i paliwa oraz zegara i pogody. Usunięte tła i ramki, wskazania zachowane."
 }
