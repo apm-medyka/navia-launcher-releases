@@ -1,8 +1,8 @@
 {
-  "versionCode": 8,
-  "versionName": "1.6.0",
-  "url": "https://github.com/apm-medyka/navia-launcher-releases/releases/latest/download/navia-launcher-1.6.0.apk",
+  "versionCode": 9,
+  "versionName": "1.6.1",
+  "url": "https://github.com/apm-medyka/navia-launcher-releases/releases/latest/download/navia-launcher-1.6.1.apk",
   "sizeBytes": 81945147,
-  "sha256": "6643538f948c922a4b3e966924f3774dcd282ff5475be7778bf47bd411dd43ac",
-  "releaseNotes": "Cztery dzialajace motywy kolorystyczne: jasny Passat z czerwonymi akcentami, OEM niebiesko-czerwony, Cyberpunk i nocny cyjan. Motywy obejmuja zegary, wskazniki, radio, muzyke i dolne przyciski. Zapamietywanie wyboru i stabilniejszy automatyczny tryb nocny. Przezroczysta zebatka ustawien w prawym gornym rogu kontenera auta."
+  "sha256": "110f5f86ae111561a4110a6771eb84ca4ad1ce09a07d1a274435cfccbbe5ace0",
+  "releaseNotes": "Nowe motywy kokpitu, radia i muzyki oraz siatka i lista aplikacji dopasowane do wybranego motywu. Jasny Passat z czerwonymi akcentami, klasyczny OEM, Cyberpunk i nocny cyjan. Poprawione zapamietywanie motywu i stabilizacja trybu nocnego. Zebatka ustawien w prawym gornym rogu kontenera auta."
 }
