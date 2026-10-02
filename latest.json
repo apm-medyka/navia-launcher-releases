@@ -1,8 +1,8 @@
 {
-  "versionCode": 10,
-  "versionName": "1.6.2",
-  "url": "https://github.com/apm-medyka/navia-launcher-releases/releases/latest/download/navia-launcher-1.6.2.apk",
+  "versionCode": 11,
+  "versionName": "1.6.3",
+  "url": "https://github.com/apm-medyka/navia-launcher-releases/releases/latest/download/navia-launcher-1.6.3.apk",
   "sizeBytes": 81945147,
-  "sha256": "cb4ba8d6b7dcdba54ac9a7e942a11063d04731e2c028141a13da8240695efed7",
-  "releaseNotes": "Automatyczny motyw dzien/noc wedlug wschodu i zachodu slonca obliczanych lokalnie z GPS, bez internetu. Ostatnia znana pozycja i godziny zastepcze przy braku GPS. Przelacznik automatu w ustawieniach, sprawdzanie po wybudzeniu i plynne przejscie kolorow. Czcionki akumulatora, paliwa, zasiegu, godziny, daty i pogody powiekszone o 1 sp."
+  "sha256": "3712600df7d6667c75aaaf9da64c7fe2c27bf47fc2755a43545a7fc884c409fc",
+  "releaseNotes": "Przebudowany kokpit: mikrofon nad wskaznikami akumulatora i paliwa po lewej, predkosciomierz po prawej. Wieksze wskazniki, osobne wiersze litrow i zasiegu. Ciemnozielony poziom paliwa, czerwony przy rezerwie 9 l lub mniej. Wiekszy zegar, data, pogoda oraz lokalizacja, wiatr i wilgotnosc."
 }
