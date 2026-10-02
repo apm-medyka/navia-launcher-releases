@@ -1,8 +1,8 @@
 {
-  "versionCode": 12,
-  "versionName": "1.6.4",
-  "url": "https://github.com/apm-medyka/navia-launcher-releases/releases/download/v1.6.4/navia-launcher-1.6.4.apk",
-  "sizeBytes": 83430660,
-  "sha256": "06e1e92d39cd71470a0d74070612260e4cd2229da20cdb2515b988ee5ccc8478",
-  "releaseNotes": "Nowa zakładka Dźwięk: główna głośność FYT, test stacji i komunikatów, minimalny poziom lektora, limit podbicia i bezpieczny start. Zapamiętywanie odczytu SOUND/2 i sterowanie OEM SOUND/0. Powrót po komunikacie z pierwszeństwem pokrętła i kierownicy; bez samoczynnego zdejmowania wyciszenia. Zakres automatyki 0–10 kroków. Integracja wzmacniacza wymaga potwierdzenia na stacji samochodowej."
+  "versionCode": 13,
+  "versionName": "1.6.5",
+  "url": "https://github.com/apm-medyka/navia-launcher-releases/releases/download/v1.6.5/navia-launcher-1.6.5.apk",
+  "sizeBytes": 81977915,
+  "sha256": "8b97f7cb5a6d8e813df18171647df6e889483fda97e4be6b75d9822b4f65aa37",
+  "releaseNotes": "Naprawiono przewijanie zakładek ustawień. Diagnostyka i pozostałe zakładki są dostępne także na niskich ekranach samochodowych. Nagłówek i przycisk Zamknij pozostają widoczne."
 }
