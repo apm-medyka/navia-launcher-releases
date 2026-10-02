@@ -1,8 +1,8 @@
 {
-  "versionCode": 11,
-  "versionName": "1.6.3",
-  "url": "https://github.com/apm-medyka/navia-launcher-releases/releases/latest/download/navia-launcher-1.6.3.apk",
-  "sizeBytes": 81945147,
-  "sha256": "3712600df7d6667c75aaaf9da64c7fe2c27bf47fc2755a43545a7fc884c409fc",
-  "releaseNotes": "Przebudowany kokpit: mikrofon nad wskaznikami akumulatora i paliwa po lewej, predkosciomierz po prawej. Wieksze wskazniki, osobne wiersze litrow i zasiegu. Ciemnozielony poziom paliwa, czerwony przy rezerwie 9 l lub mniej. Wiekszy zegar, data, pogoda oraz lokalizacja, wiatr i wilgotnosc."
+  "versionCode": 12,
+  "versionName": "1.6.4",
+  "url": "https://github.com/apm-medyka/navia-launcher-releases/releases/download/v1.6.4/navia-launcher-1.6.4.apk",
+  "sizeBytes": 83430660,
+  "sha256": "06e1e92d39cd71470a0d74070612260e4cd2229da20cdb2515b988ee5ccc8478",
+  "releaseNotes": "Nowa zakładka Dźwięk: główna głośność FYT, test stacji i komunikatów, minimalny poziom lektora, limit podbicia i bezpieczny start. Zapamiętywanie odczytu SOUND/2 i sterowanie OEM SOUND/0. Powrót po komunikacie z pierwszeństwem pokrętła i kierownicy; bez samoczynnego zdejmowania wyciszenia. Zakres automatyki 0–10 kroków. Integracja wzmacniacza wymaga potwierdzenia na stacji samochodowej."
 }
