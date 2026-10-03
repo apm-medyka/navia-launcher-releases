@@ -1,8 +1,8 @@
 {
-    "versionCode":  16,
-    "versionName":  "1.6.8",
-    "url":  "https://github.com/apm-medyka/navia-launcher-releases/releases/download/v1.6.8/navia-launcher-1.6.8.apk",
-    "sizeBytes":  82109046,
-    "sha256":  "670c4571b0957743ce5e7844d93481c0813b6c83fb21140dd48f3cc7bf82149d",
-    "releaseNotes":  "Nowość: znak zakazu wjazdu w boczne ulice. Duża ikona ze strzałką (lewo/prawo) na środku ekranu ok. 150 m przed skrzyżowaniem, bez komunikatu głosowego, na każdej zakładce poza ustawieniami. Dane z OpenStreetMap – działa tylko tam, gdzie zakaz jest zmapowany. Można wyłączyć w Ustawieniach: „ZAKAZ WJAZDU W BOCZNE ULICE”."
+    "versionCode":  17,
+    "versionName":  "1.6.9",
+    "url":  "https://github.com/apm-medyka/navia-launcher-releases/releases/download/v1.6.9/navia-launcher-1.6.9.apk",
+    "sizeBytes":  82158198,
+    "sha256":  "79c82c9778757bb68c6041456541f9c2832e53dc95a0d5bcd1b66930d4fb093d",
+    "releaseNotes":  "• Szacowany limit ustawowy (50/90/100/120/140) tam, gdzie OSM nie ma limitu – przerywana obwódka, bez ostrzeżeń. Wyłączysz w Ustawieniach.\n• Radio online i muzyka ściszają się (domyślnie do 20%) na czas komunikatów i asystenta; nowa opcja „RADIO I MUZYKA PODCZAS KOMUNIKATU”.\n• Naprawiono komunikat „dziękuję za paliwo” pojawiający się przy każdym włączeniu radia.\n• Poprawki zapamiętywania głośności i powrotu głośności po przerwanym komunikacie."
 }
