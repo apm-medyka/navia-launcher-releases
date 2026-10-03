@@ -1,8 +1,8 @@
 {
-  "versionCode": 14,
-  "versionName": "1.6.6",
-  "url": "https://github.com/apm-medyka/navia-launcher-releases/releases/download/v1.6.6/navia-launcher-1.6.6.apk",
-  "sizeBytes": 83500259,
-  "sha256": "a42567f961b2f493819d44c1c65f24239113c60946b1dea429685b7b59ab4f27",
-  "releaseNotes": "Opcjonalna diagnostyka GPS/OSM i kanałów audio Android/FYT. Repo apm-medyka/logi-ze-stacji ustawione domyślnie. Import tokena TXT do szyfrowanej pamięci aplikacji, test połączenia, zgoda na lokalizację, kolejka offline i wysyłka co 15 min podczas działania launchera. Diagnostyka domyślnie wyłączona, wysyłka tylko do prywatnego repo. Ostrzeżenia drogowe bez zmian."
+  "versionCode": 15,
+  "versionName": "1.6.7",
+  "url": "https://github.com/apm-medyka/navia-launcher-releases/releases/download/v1.6.7/navia-launcher-1.6.7.apk",
+  "sizeBytes": 82076278,
+  "sha256": "c7f77b4392db8f772e87825df745d528a3275e3fe84ed58efd93a8c750bc1fa2",
+  "releaseNotes": "Mapa bez CARTO (koniec napisu API KEY REQUIRED), najpierw mapa offline, poprawione przybliżenie i automatyczne ponawianie. Limit prędkości nie miga (jedno źródło GPS/OSM), lepsze dopasowanie drogi, krótkie podtrzymanie limitu jako ~N (bez ostrzeżenia o przekroczeniu). Ostrzeżenia GDDKiA o robotach drogowych, zamknięciach i ruchu wahadłowym na drogach krajowych (przełącznik w ustawieniach, dane GDDKiA CC0). Grupowanie progów zwalniających w jedną zapowiedź."
 }
