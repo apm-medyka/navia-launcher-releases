@@ -1,8 +1,8 @@
 {
-    "versionCode":  17,
-    "versionName":  "1.6.9",
-    "url":  "https://github.com/apm-medyka/navia-launcher-releases/releases/download/v1.6.9/navia-launcher-1.6.9.apk",
-    "sizeBytes":  82158198,
-    "sha256":  "79c82c9778757bb68c6041456541f9c2832e53dc95a0d5bcd1b66930d4fb093d",
-    "releaseNotes":  "• Szacowany limit ustawowy (50/90/100/120/140) tam, gdzie OSM nie ma limitu – przerywana obwódka, bez ostrzeżeń. Wyłączysz w Ustawieniach.\n• Radio online i muzyka ściszają się (domyślnie do 20%) na czas komunikatów i asystenta; nowa opcja „RADIO I MUZYKA PODCZAS KOMUNIKATU”.\n• Naprawiono komunikat „dziękuję za paliwo” pojawiający się przy każdym włączeniu radia.\n• Poprawki zapamiętywania głośności i powrotu głośności po przerwanym komunikacie."
+    "versionCode": 18,
+    "versionName": "1.7.0",
+    "url": "https://github.com/apm-medyka/navia-launcher-releases/releases/download/v1.7.0/navia-launcher-1.7.0.apk",
+    "sizeBytes": 82608613,
+    "sha256": "2b141f0460a25cb324865718b11a1b79b444e2f80df09ecac3afb3f23b39a03b",
+    "releaseNotes": "• Nowość: PODSUMOWANIE PO WYBUDZENIU – okienko z ostrzeżeniami IMGW (mgła, oblodzenie, wiatr, burze), ryzykiem śliskiej drogi, utrudnieniami GDDKiA w promieniu 30 km i niskim stanem paliwa. Jedno krótkie zdanie głosem, szczegóły na ekranie; to samo ostrzeżenie tylko raz.\n• Ustawienia: przełącznik całości, głosu i poszczególnych sekcji oraz przycisk „SPRAWDŹ TERAZ”.\n• Źródła: IMGW-PIB (dane przetworzone), Open-Meteo.com (CC BY 4.0), GDDKiA."
 }
