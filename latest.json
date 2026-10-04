@@ -1,8 +1,8 @@
 {
-    "versionCode": 20,
-    "versionName": "1.7.2",
-    "url": "https://github.com/apm-medyka/navia-launcher-releases/releases/download/v1.7.2/navia-launcher-1.7.2.apk",
-    "sizeBytes": 82707025,
-    "sha256": "8858840f40a88e669597535f874046aeb92805178a348583a9545456bd45137b",
-    "releaseNotes": "• Komunikaty głosowe jeden po drugim, bez nakładania się: najpierw powitanie, potem po kolei wszystkie pozycje podsumowania (od najważniejszej: IMGW, ślisko, paliwo, GDDKiA), na końcu reszta. Między komunikatami krótka przerwa ok. 1 s.\n• Na starcie nic nie ginie: komunikaty czekają na swoją kolej (do 5 minut, o ile są nadal aktualne – np. „mało paliwa” odpada po zatankowaniu). Limit 3 komunikatów na minutę dalej chroni przed gadaniem w trasie, ale nie blokuje startu.\n• STOP, fotoradar, przejazd kolejowy, zakaz wjazdu i bliski próg wchodzą przed czekające podsumowanie, ale nie przerywają zdania w połowie – chyba że miejsce jest już bardzo blisko (wtedy przerwane zdanie zostanie powtórzone raz).\n• Gdy mówi Google Maps, Navia czeka i potem kontynuuje kolejkę. Asystent głosowy przerywa bieżący komunikat – zostanie powtórzony po nim.\n• Radio przyciszone przez całą serię komunikatów – bez podgłaśniania między zdaniami.\n• Karta podsumowania zostaje na ekranie, dopóki czytane są jej pozycje.\n• Wraca dźwięk powitania (w 1.7.1 brakowało pliku welcome.mp3 w aplikacji)."
+    "versionCode": 21,
+    "versionName": "1.7.3",
+    "url": "https://github.com/apm-medyka/navia-launcher-releases/releases/download/v1.7.3/navia-launcher-1.7.3.apk",
+    "sizeBytes": 74826269,
+    "sha256": "45424edb1082632e162d8b73d8c9b0b62b7ea67a51bf1afb2c2ff3eb9c77dde4",
+    "releaseNotes": "• Podsumowanie po uruchomieniu czyta po kolei wszystkie pozycje z karty: najpierw ostrzeżenia (IMGW, ślisko, paliwo, wypadki/zamknięcia GDDKiA), potem roboty drogowe i łączną liczbę utrudnień.\n• Mapa: renderer OpenGL ES zamiast Vulkan, zgodny ze stacjami FYT; w zakładce MAPA powinna wrócić mapa pod ostrzeżeniami.\n• Diagnostyka mapy w logach: źródło mapy, błędy, pierwsze wyrenderowanie i kontrola, czy obraz nie jest pusty."
 }
