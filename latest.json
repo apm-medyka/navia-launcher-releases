@@ -1,8 +1,8 @@
 {
-    "versionCode": 19,
-    "versionName": "1.7.1",
-    "url": "https://github.com/apm-medyka/navia-launcher-releases/releases/download/v1.7.1/navia-launcher-1.7.1.apk",
-    "sizeBytes": 82617037,
-    "sha256": "342ff055ef1670558a955d3dc37e38d46f7556a9ea5662049697ece0b186072f",
-    "releaseNotes": "• Jedno miejsce na komunikaty u góry prawego panelu zamiast okienek jedno na drugim – najważniejszy na wierzchu, reszta czeka. Przycisk „X” zamyka wszystkie naraz (znak zakazu wjazdu tylko ten bieżący – następny pokaże się normalnie).\n• Ważniejsze ostrzeżenie wypiera mniej ważne na ekranie i w głosie; minięte miejsca znikają same.\n• „GŁOS: TYLKO WAŻNE” domyślnie włączone: głosem STOP, fotoradar, przejazd kolejowy, zakaz wjazdu, progi, GDDKiA, krytyczne ostrzeżenia i „Zwolnij”; reszta tylko na ekranie.\n• Gdy mówi Google Maps, Navia czeka; bliski próg lub zakaz wjazdu zostanie powiedziany zaraz potem, jeśli jest jeszcze przed autem.\n• Za szybko: bez okienka, krótkie „Zwolnij, ograniczenie N” najwyżej co 2 minuty.\n• Rezerwa, spryskiwacz, serwis, światła, akumulator – raz na jazdę; olej, drzwi, hamulec ręczny i pasy wracają po postoju. Informacja o paliwie mówiona raz.\n• Na postoju krytyczne ostrzeżenie pokazuje się w oknie (można wyłączyć: Ustawienia > Ogólne)."
+    "versionCode": 20,
+    "versionName": "1.7.2",
+    "url": "https://github.com/apm-medyka/navia-launcher-releases/releases/download/v1.7.2/navia-launcher-1.7.2.apk",
+    "sizeBytes": 82707025,
+    "sha256": "8858840f40a88e669597535f874046aeb92805178a348583a9545456bd45137b",
+    "releaseNotes": "• Komunikaty głosowe jeden po drugim, bez nakładania się: najpierw powitanie, potem po kolei wszystkie pozycje podsumowania (od najważniejszej: IMGW, ślisko, paliwo, GDDKiA), na końcu reszta. Między komunikatami krótka przerwa ok. 1 s.\n• Na starcie nic nie ginie: komunikaty czekają na swoją kolej (do 5 minut, o ile są nadal aktualne – np. „mało paliwa” odpada po zatankowaniu). Limit 3 komunikatów na minutę dalej chroni przed gadaniem w trasie, ale nie blokuje startu.\n• STOP, fotoradar, przejazd kolejowy, zakaz wjazdu i bliski próg wchodzą przed czekające podsumowanie, ale nie przerywają zdania w połowie – chyba że miejsce jest już bardzo blisko (wtedy przerwane zdanie zostanie powtórzone raz).\n• Gdy mówi Google Maps, Navia czeka i potem kontynuuje kolejkę. Asystent głosowy przerywa bieżący komunikat – zostanie powtórzony po nim.\n• Radio przyciszone przez całą serię komunikatów – bez podgłaśniania między zdaniami.\n• Karta podsumowania zostaje na ekranie, dopóki czytane są jej pozycje.\n• Wraca dźwięk powitania (w 1.7.1 brakowało pliku welcome.mp3 w aplikacji)."
 }
