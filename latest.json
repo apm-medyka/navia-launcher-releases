@@ -1,8 +1,8 @@
 {
-    "versionCode": 18,
-    "versionName": "1.7.0",
-    "url": "https://github.com/apm-medyka/navia-launcher-releases/releases/download/v1.7.0/navia-launcher-1.7.0.apk",
-    "sizeBytes": 82608613,
-    "sha256": "2b141f0460a25cb324865718b11a1b79b444e2f80df09ecac3afb3f23b39a03b",
-    "releaseNotes": "• Nowość: PODSUMOWANIE PO WYBUDZENIU – okienko z ostrzeżeniami IMGW (mgła, oblodzenie, wiatr, burze), ryzykiem śliskiej drogi, utrudnieniami GDDKiA w promieniu 30 km i niskim stanem paliwa. Jedno krótkie zdanie głosem, szczegóły na ekranie; to samo ostrzeżenie tylko raz.\n• Ustawienia: przełącznik całości, głosu i poszczególnych sekcji oraz przycisk „SPRAWDŹ TERAZ”.\n• Źródła: IMGW-PIB (dane przetworzone), Open-Meteo.com (CC BY 4.0), GDDKiA."
+    "versionCode": 19,
+    "versionName": "1.7.1",
+    "url": "https://github.com/apm-medyka/navia-launcher-releases/releases/download/v1.7.1/navia-launcher-1.7.1.apk",
+    "sizeBytes": 82617037,
+    "sha256": "342ff055ef1670558a955d3dc37e38d46f7556a9ea5662049697ece0b186072f",
+    "releaseNotes": "• Jedno miejsce na komunikaty u góry prawego panelu zamiast okienek jedno na drugim – najważniejszy na wierzchu, reszta czeka. Przycisk „X” zamyka wszystkie naraz (znak zakazu wjazdu tylko ten bieżący – następny pokaże się normalnie).\n• Ważniejsze ostrzeżenie wypiera mniej ważne na ekranie i w głosie; minięte miejsca znikają same.\n• „GŁOS: TYLKO WAŻNE” domyślnie włączone: głosem STOP, fotoradar, przejazd kolejowy, zakaz wjazdu, progi, GDDKiA, krytyczne ostrzeżenia i „Zwolnij”; reszta tylko na ekranie.\n• Gdy mówi Google Maps, Navia czeka; bliski próg lub zakaz wjazdu zostanie powiedziany zaraz potem, jeśli jest jeszcze przed autem.\n• Za szybko: bez okienka, krótkie „Zwolnij, ograniczenie N” najwyżej co 2 minuty.\n• Rezerwa, spryskiwacz, serwis, światła, akumulator – raz na jazdę; olej, drzwi, hamulec ręczny i pasy wracają po postoju. Informacja o paliwie mówiona raz.\n• Na postoju krytyczne ostrzeżenie pokazuje się w oknie (można wyłączyć: Ustawienia > Ogólne)."
 }
