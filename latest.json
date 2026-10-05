@@ -1,8 +1,8 @@
 {
-    "versionCode": 21,
-    "versionName": "1.7.3",
-    "url": "https://github.com/apm-medyka/navia-launcher-releases/releases/download/v1.7.3/navia-launcher-1.7.3.apk",
-    "sizeBytes": 74826269,
-    "sha256": "45424edb1082632e162d8b73d8c9b0b62b7ea67a51bf1afb2c2ff3eb9c77dde4",
-    "releaseNotes": "• Podsumowanie po uruchomieniu czyta po kolei wszystkie pozycje z karty: najpierw ostrzeżenia (IMGW, ślisko, paliwo, wypadki/zamknięcia GDDKiA), potem roboty drogowe i łączną liczbę utrudnień.\n• Mapa: renderer OpenGL ES zamiast Vulkan, zgodny ze stacjami FYT; w zakładce MAPA powinna wrócić mapa pod ostrzeżeniami.\n• Diagnostyka mapy w logach: źródło mapy, błędy, pierwsze wyrenderowanie i kontrola, czy obraz nie jest pusty."
+    "versionCode": 22,
+    "versionName": "1.7.4",
+    "url": "https://github.com/apm-medyka/navia-launcher-releases/releases/download/v1.7.4/navia-launcher-1.7.4.apk",
+    "sizeBytes": 74859081,
+    "sha256": "8184e85798a7cac8d467554e4d8741e9d8fcb492c3bbfa902fc95848ebf01b99",
+    "releaseNotes": "• Naprawiono pustą mapę offline: plik PMTiles jest czytany nowym czytnikiem, który poprawnie wczytuje kafelki od zoomu 16 (używanego w aucie).\n• Gdy mapa offline zostanie pusta, a jest internet, launcher sam przełącza się na mapę online (OpenFreeMap).\n• Mapa szybciej ponawia próbę (po 4 s) i nie ponawia w tle; po wybudzeniu działa tylko jedna kopia launchera.\n• Karta podsumowania, która wraca po 6 h z powodu tego samego ostrzeżenia (np. IMGW), znów je odczytuje.\n• Więcej diagnostyki mapy w logach (kafelki, błędy, plik mapy offline)."
 }
