@@ -1,8 +1,8 @@
 {
-    "versionCode": 22,
-    "versionName": "1.7.4",
-    "url": "https://github.com/apm-medyka/navia-launcher-releases/releases/download/v1.7.4/navia-launcher-1.7.4.apk",
+    "versionCode": 23,
+    "versionName": "1.7.5",
+    "url": "https://github.com/apm-medyka/navia-launcher-releases/releases/download/v1.7.5/navia-launcher-1.7.5.apk",
     "sizeBytes": 74859081,
-    "sha256": "8184e85798a7cac8d467554e4d8741e9d8fcb492c3bbfa902fc95848ebf01b99",
-    "releaseNotes": "• Naprawiono pustą mapę offline: plik PMTiles jest czytany nowym czytnikiem, który poprawnie wczytuje kafelki od zoomu 16 (używanego w aucie).\n• Gdy mapa offline zostanie pusta, a jest internet, launcher sam przełącza się na mapę online (OpenFreeMap).\n• Mapa szybciej ponawia próbę (po 4 s) i nie ponawia w tle; po wybudzeniu działa tylko jedna kopia launchera.\n• Karta podsumowania, która wraca po 6 h z powodu tego samego ostrzeżenia (np. IMGW), znów je odczytuje.\n• Więcej diagnostyki mapy w logach (kafelki, błędy, plik mapy offline)."
+    "sha256": "50e1eb8ac2b5d4a4dfc4a4b224c972a0b436db2f3f650d0d910e64817ab455b8",
+    "releaseNotes": "• Płynniejszy znacznik pojazdu na MAPA: między kolejnymi odczytami GPS (co ~1 s) strzałka i kamera przesuwają się płynnie zamiast skakać.\n• Po ręcznym przesunięciu/powiększeniu mapy podążanie za autem wznawia się po chwili."
 }
