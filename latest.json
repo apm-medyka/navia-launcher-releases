@@ -1,8 +1,8 @@
 {
-    "versionCode": 23,
-    "versionName": "1.7.5",
-    "url": "https://github.com/apm-medyka/navia-launcher-releases/releases/download/v1.7.5/navia-launcher-1.7.5.apk",
-    "sizeBytes": 74859081,
-    "sha256": "50e1eb8ac2b5d4a4dfc4a4b224c972a0b436db2f3f650d0d910e64817ab455b8",
-    "releaseNotes": "• Płynniejszy znacznik pojazdu na MAPA: między kolejnymi odczytami GPS (co ~1 s) strzałka i kamera przesuwają się płynnie zamiast skakać.\n• Po ręcznym przesunięciu/powiększeniu mapy podążanie za autem wznawia się po chwili."
+    "versionCode": 24,
+    "versionName": "1.7.6",
+    "url": "https://github.com/apm-medyka/navia-launcher-releases/releases/download/v1.7.6/navia-launcher-1.7.6.apk",
+    "sizeBytes": 74875465,
+    "sha256": "7167bb069dde8294578263f766061d89037da0f5888abd3e47d0b2b383b538cd",
+    "releaseNotes": "• Zakaz wjazdu w boczną ulicę z głosem: „Po lewej/Po prawej zakaz wjazdu”, na wprost: „Zakaz wjazdu na wprost”\n• Progi: „Próg zwalniający”, kilka blisko siebie jako jeden komunikat „Progi zwalniające”\n• „Ustąp pierwszeństwa” mówione (też w trybie „tylko ważne”)\n• Ostrzeżenia ok. 8 s przed miejscem, min. 150 m (80 km/h ≈ 180 m)\n• Cichy gong dla ostrzeżeń tylko na ekranie (maks. raz na 20 s, czeka na Google Maps), do wyłączenia w ustawieniach"
 }
