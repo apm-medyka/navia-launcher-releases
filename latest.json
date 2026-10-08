@@ -1,8 +1,8 @@
 {
-    "versionCode": 24,
-    "versionName": "1.7.6",
-    "url": "https://github.com/apm-medyka/navia-launcher-releases/releases/download/v1.7.6/navia-launcher-1.7.6.apk",
-    "sizeBytes": 74875465,
-    "sha256": "7167bb069dde8294578263f766061d89037da0f5888abd3e47d0b2b383b538cd",
-    "releaseNotes": "• Zakaz wjazdu w boczną ulicę z głosem: „Po lewej/Po prawej zakaz wjazdu”, na wprost: „Zakaz wjazdu na wprost”\n• Progi: „Próg zwalniający”, kilka blisko siebie jako jeden komunikat „Progi zwalniające”\n• „Ustąp pierwszeństwa” mówione (też w trybie „tylko ważne”)\n• Ostrzeżenia ok. 8 s przed miejscem, min. 150 m (80 km/h ≈ 180 m)\n• Cichy gong dla ostrzeżeń tylko na ekranie (maks. raz na 20 s, czeka na Google Maps), do wyłączenia w ustawieniach"
+  "versionCode": 25,
+  "versionName": "1.7.7",
+  "url": "https://github.com/apm-medyka/navia-launcher-releases/releases/latest/download/navia-launcher-1.7.7.apk",
+  "sizeBytes": 82690533,
+  "sha256": "bb88b7fcda7a286150b58a689a30706184f965ce6367d92629b6b88de590af8e",
+  "releaseNotes": "Diagnostyka: nowe logi przelaczania zrodla dzwieku FYT (Android/tuner) z potwierdzeniem wyslania komendy, oraz przechwytywanie crashy do logi-ze-stacji. Nie zmienia zachowania - przygotowanie do zdiagnozowania ciszy radia online."
 }
