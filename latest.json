@@ -1,8 +1,8 @@
 {
-  "versionCode": 26,
-  "versionName": "1.7.8",
-  "url": "https://github.com/apm-medyka/navia-launcher-releases/releases/latest/download/navia-launcher-1.7.8.apk",
+  "versionCode": 27,
+  "versionName": "1.7.9",
+  "url": "https://github.com/apm-medyka/navia-launcher-releases/releases/latest/download/navia-launcher-1.7.9.apk",
   "sizeBytes": 82690533,
-  "sha256": "2eef07c83eefd7f424a7fafb6f52067a527b4a682d46a0f0121744b616a2a284",
-  "releaseNotes": "Naprawione: cisza radia online / cichy FM po wylaczeniu. Przyczyna: komenda przelaczenia zrodla dzwieku (Android/tuner) byla zawsze blokowana przez bialej listy komend bezpieczenstwa (brak wpisu MODULE_MAIN) - dzialalo to tak od zawsze, niezaleznie od restartow. Teraz dodane dokladnie ta jedna komenda do listy."
+  "sha256": "c38b762d036913c2e1964d788268898ea29d5e7e538833f378b51aa8294acbd0",
+  "releaseNotes": "Radio online: ponowne laczenie juz nie poddaje sie na stale po 5 probach (~22s) - po krotkim przyspieszonym rozruchu probuje dalej w tle co 30s, bez konca, zamiast ciszy do konca trasy po dluzszej dziurze w zasiegu. Naprawiony tez rzadki przypadek: zatrzymanie radia w trakcie oczekiwania na ponowne polaczenie moglo spowodowac, ze samo wznowilo sie chwile pozniej mimo wylaczenia."
 }
