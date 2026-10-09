@@ -1,8 +1,8 @@
 {
-  "versionCode": 25,
-  "versionName": "1.7.7",
-  "url": "https://github.com/apm-medyka/navia-launcher-releases/releases/latest/download/navia-launcher-1.7.7.apk",
+  "versionCode": 26,
+  "versionName": "1.7.8",
+  "url": "https://github.com/apm-medyka/navia-launcher-releases/releases/latest/download/navia-launcher-1.7.8.apk",
   "sizeBytes": 82690533,
-  "sha256": "bb88b7fcda7a286150b58a689a30706184f965ce6367d92629b6b88de590af8e",
-  "releaseNotes": "Diagnostyka: nowe logi przelaczania zrodla dzwieku FYT (Android/tuner) z potwierdzeniem wyslania komendy, oraz przechwytywanie crashy do logi-ze-stacji. Nie zmienia zachowania - przygotowanie do zdiagnozowania ciszy radia online."
+  "sha256": "2eef07c83eefd7f424a7fafb6f52067a527b4a682d46a0f0121744b616a2a284",
+  "releaseNotes": "Naprawione: cisza radia online / cichy FM po wylaczeniu. Przyczyna: komenda przelaczenia zrodla dzwieku (Android/tuner) byla zawsze blokowana przez bialej listy komend bezpieczenstwa (brak wpisu MODULE_MAIN) - dzialalo to tak od zawsze, niezaleznie od restartow. Teraz dodane dokladnie ta jedna komenda do listy."
 }
