@@ -1,8 +1,8 @@
 {
-  "versionCode": 27,
-  "versionName": "1.7.9",
-  "url": "https://github.com/apm-medyka/navia-launcher-releases/releases/latest/download/navia-launcher-1.7.9.apk",
+  "versionCode": 28,
+  "versionName": "1.8.0",
+  "url": "https://github.com/apm-medyka/navia-launcher-releases/releases/latest/download/navia-launcher-1.8.0.apk",
   "sizeBytes": 82690533,
-  "sha256": "c38b762d036913c2e1964d788268898ea29d5e7e538833f378b51aa8294acbd0",
-  "releaseNotes": "Radio online: ponowne laczenie juz nie poddaje sie na stale po 5 probach (~22s) - po krotkim przyspieszonym rozruchu probuje dalej w tle co 30s, bez konca, zamiast ciszy do konca trasy po dluzszej dziurze w zasiegu. Naprawiony tez rzadki przypadek: zatrzymanie radia w trakcie oczekiwania na ponowne polaczenie moglo spowodowac, ze samo wznowilo sie chwile pozniej mimo wylaczenia."
+  "sha256": "d71d514bfc1127b5788c4232e8c319e05e2e9f959c4306583643f8abc888f91a",
+  "releaseNotes": "Powiekszone przelaczniki zakladek w widoku Muzyka (BIBLIOTEKA/ODTWARZANE/SPOTIFY oraz FOLDERY/WYKONAWCY/PLAYLISTY) - byly za male zeby trafic w nie precyzyjnie podczas jazdy."
 }
