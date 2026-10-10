@@ -1,8 +1,8 @@
 {
-    "versionCode":  29,
-    "versionName":  "1.8.1",
-    "url":  "https://github.com/apm-medyka/navia-launcher-releases/releases/latest/download/navia-launcher-1.8.1.apk",
-    "sizeBytes":  74875469,
-    "sha256":  "6ed2084bf11a02bbd587280e865099837dd419bbdfc02300a6bc6756c9b0db34",
-    "releaseNotes":  "Naprawiona mapa offline (znow sie rysuje). Wersje 1.7.7-1.8.0 zostaly przypadkiem zbudowane ze starej kopii kodu (sprzed 1.7.1), przez co wrocil blad odczytu kafelkow PMTiles na zoomie 16 i zniknely poprawki mapy z 1.7.3-1.7.6 (OpenGL, diagnostyka mapy, zapasowa mapa online, plynny znacznik auta) oraz zmiany z 1.7.1-1.7.6 (kolejka glosowa, glosowe ostrzezenia o zakazie wjazdu/progach/ustap pierwszenstwa). 1.8.1 przywraca to wszystko i zachowuje poprawki z 1.7.7-1.8.0 (cisza radia online, ponowne laczenie radia, wieksze zakladki Muzyki)."
+    "versionCode":  30,
+    "versionName":  "1.8.2",
+    "url":  "https://github.com/apm-medyka/navia-launcher-releases/releases/latest/download/navia-launcher-1.8.2.apk",
+    "sizeBytes":  75742712,
+    "sha256":  "f88d51852bb586c341663caec373c4842c191eb6e71643d28d1b6b9d1322eb7c",
+    "releaseNotes":  "Radio internetowe: nowy ekran \u0027teraz gra\u0027 w prawym panelu zakladki RADIO - okladka, tytul, wykonawca, stacja, \u0027na zywo\u0027 i \u0027poprzednio\u0027. Utwor nie znika przy buforowaniu i ponownym laczeniu. Oczyszczanie tytulow (ukryte znaki, wielkie litery, dopiski typu radio edit, nazwy stacji, slogany). RMF MAXX, Radio ZET, Antyradio i Chillizet - utwory z serwisow stacji. Okladki: ze stacji, Deezer lub iTunes, pamiec podreczna; ustawienie OKLADKI ALBUMOW. Radio widoczne dla auta/Bluetooth (MediaSession): tytul, wykonawca, okladka; nastepny/poprzedni = zmiana stacji. Spotify: wybrany utwor z biblioteki uruchamiany w aplikacji Spotify na tym urzadzeniu (przez jej sesje multimediow), sterowanie play/pauza/nastepny bez zmian; odtwarzanie przez Spotify Web API jako opcja testowa (domyslnie wylaczona)."
 }
