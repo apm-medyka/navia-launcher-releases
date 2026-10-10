@@ -1,8 +1,8 @@
 {
-    "versionCode":  33,
-    "versionName":  "1.8.5",
-    "url":  "https://github.com/apm-medyka/navia-launcher-releases/releases/latest/download/navia-launcher-1.8.5.apk",
+    "versionCode":  34,
+    "versionName":  "1.8.6",
+    "url":  "https://github.com/apm-medyka/navia-launcher-releases/releases/latest/download/navia-launcher-1.8.6.apk",
     "sizeBytes":  75841372,
-    "sha256":  "b759d7cefeac5f540ff9dafb5f8a63631f98bf341b6d4a08da00738f3ecdc535",
-    "releaseNotes":  "Nowe ustawienia launchera. Pelny ekran: po lewej 8 dzialow (Ostrzezenia i glos, Mapa i nawigacja, Radio i muzyka, Dzwiek, Pojazd, Wyglad, Bezpieczenstwo, Aktualizacje), po prawej opcje wybranego dzialu. Wiekszy, czytelniejszy tekst, wieksze przelaczniki i przyciski, stały przycisk Gotowe. Rzadziej uzywane opcje pod \u0027Wiecej\u0027. Testy, diagnostyka, CAN, zdalne logi i ustawienia Androida przeniesione do ukrytego dzialu Serwis (przytrzymaj napis Ustawienia 3 s; przy wlaczonej blokadzie trzeba podac PIN). Kafelek USTAWIENIA ANDROID zniknal z menu opcji (jest w Serwisie). Wszystkie dotychczasowe ustawienia zostaja bez zmian. Zmiana PIN-u bez zacinania ekranu."
+    "sha256":  "37abce6f94b657fdec05a634adbbf02c2af52c6eae98dc0e80e0849f7cb804da",
+    "releaseNotes":  "Czytelniejsze ustawienia: kazda opcja ma krotki, jednozdaniowy opis, tytuly bez wielkich liter (np. \u0027Glos: tylko wazne\u0027), dlugie instrukcje zastapione przyciskami (np. \u0027Nadaj zgode\u0027, \u0027Otworz uprawnienia\u0027). Poprawione opisy w dzialach Dzwiek i Pojazd. Zachowanie i zapisane ustawienia bez zmian."
 }
