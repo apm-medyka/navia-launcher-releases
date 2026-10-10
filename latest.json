@@ -1,8 +1,8 @@
 {
-    "versionCode":  31,
-    "versionName":  "1.8.3",
-    "url":  "https://github.com/apm-medyka/navia-launcher-releases/releases/latest/download/navia-launcher-1.8.3.apk",
-    "sizeBytes":  75775836,
-    "sha256":  "24a46e69ec0dd869691cf9927bd6dc8b3b34a70a5490552e5184decd1bb9c80c",
-    "releaseNotes":  "Ostrzezenia drogowe dzialaja takze w tle - gdy na ekranie jest Android Auto lub Mapy Google: ograniczenie predkosci i \u0027Zwolnij\u0027, fotoradary, STOP, przejazdy kolejowe, zakazy wjazdu, progi, ustap pierwszenstwa, GDDKiA i krytyczne ostrzezenia o pojezdzie. Jedno zrodlo komunikatow - bez podwojnych zapowiedzi po powrocie do launchera. Usluga w tle z cichym powiadomieniem; GPS tylko podczas jazdy (wylaczany po zgaszeniu zaplonu i przy wylaczonym ekranie), uruchamiana po starcie radia i wznawiana po zamknieciu przez system. Nowe ustawienie IKONY OSTRZEZEN NAD INNYMI APLIKACJAMI: maly znak w prawym gornym rogu przez kilka sekund, dotkniecie zamyka (wymaga zgody \u0027Wyswietlanie nad innymi aplikacjami\u0027). Bez zmian: wstrzymanie przy komunikatach Map Google, przyciszanie muzyki, limit komunikatow, \u0027tylko wazne\u0027 i gong."
+    "versionCode":  32,
+    "versionName":  "1.8.4",
+    "url":  "https://github.com/apm-medyka/navia-launcher-releases/releases/latest/download/navia-launcher-1.8.4.apk",
+    "sizeBytes":  75808604,
+    "sha256":  "9f7aa45ccaea22b97380e1b994e07e6e54ef4615556947336d9f989854cfaefd",
+    "releaseNotes":  "Blokada launchera (PIN) - poprawki bezpieczenstwa. Blokada wraca po wylaczeniu ekranu (krotkie wylaczenie ekranu do 2 min przy wlaczonym zaplonie nie blokuje) i od razu po zgaszeniu zaplonu; otwarte okna zamykaja sie. Brak domyslnego PIN-u: wlaczenie blokady wymaga ustawienia nowego PIN-u (4-8 cyfr, bez 0000, 1234, powtorzen i ciagow); jesli dotad byl PIN domyslny, po odblokowaniu trzeba ustawic nowy. Wylaczenie blokady lub blokady po uspieniu wymaga PIN-u. Tryb awaryjny pyta o PIN przed otwarciem ustawien Androida i wlacza sie tylko po prawdziwych awariach. Coraz dluzsze przerwy po blednych PIN-ach (30 s, 1 min, 5 min, 15 min), odporne na zmiane zegara. Sprawdzanie PIN-u bez zacinania ekranu. Pasek systemowy ukryty przy blokadzie (o ile system pozwala). To blokada odstraszajaca, nie zabezpieczenie przed kradzieza."
 }
