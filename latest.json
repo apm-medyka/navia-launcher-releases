@@ -1,8 +1,8 @@
 {
-  "versionCode": 28,
-  "versionName": "1.8.0",
-  "url": "https://github.com/apm-medyka/navia-launcher-releases/releases/latest/download/navia-launcher-1.8.0.apk",
-  "sizeBytes": 82690533,
-  "sha256": "d71d514bfc1127b5788c4232e8c319e05e2e9f959c4306583643f8abc888f91a",
-  "releaseNotes": "Powiekszone przelaczniki zakladek w widoku Muzyka (BIBLIOTEKA/ODTWARZANE/SPOTIFY oraz FOLDERY/WYKONAWCY/PLAYLISTY) - byly za male zeby trafic w nie precyzyjnie podczas jazdy."
+    "versionCode":  29,
+    "versionName":  "1.8.1",
+    "url":  "https://github.com/apm-medyka/navia-launcher-releases/releases/latest/download/navia-launcher-1.8.1.apk",
+    "sizeBytes":  74875469,
+    "sha256":  "6ed2084bf11a02bbd587280e865099837dd419bbdfc02300a6bc6756c9b0db34",
+    "releaseNotes":  "Naprawiona mapa offline (znow sie rysuje). Wersje 1.7.7-1.8.0 zostaly przypadkiem zbudowane ze starej kopii kodu (sprzed 1.7.1), przez co wrocil blad odczytu kafelkow PMTiles na zoomie 16 i zniknely poprawki mapy z 1.7.3-1.7.6 (OpenGL, diagnostyka mapy, zapasowa mapa online, plynny znacznik auta) oraz zmiany z 1.7.1-1.7.6 (kolejka glosowa, glosowe ostrzezenia o zakazie wjazdu/progach/ustap pierwszenstwa). 1.8.1 przywraca to wszystko i zachowuje poprawki z 1.7.7-1.8.0 (cisza radia online, ponowne laczenie radia, wieksze zakladki Muzyki)."
 }
