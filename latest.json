@@ -1,8 +1,8 @@
 {
-    "versionCode":  32,
-    "versionName":  "1.8.4",
-    "url":  "https://github.com/apm-medyka/navia-launcher-releases/releases/latest/download/navia-launcher-1.8.4.apk",
-    "sizeBytes":  75808604,
-    "sha256":  "9f7aa45ccaea22b97380e1b994e07e6e54ef4615556947336d9f989854cfaefd",
-    "releaseNotes":  "Blokada launchera (PIN) - poprawki bezpieczenstwa. Blokada wraca po wylaczeniu ekranu (krotkie wylaczenie ekranu do 2 min przy wlaczonym zaplonie nie blokuje) i od razu po zgaszeniu zaplonu; otwarte okna zamykaja sie. Brak domyslnego PIN-u: wlaczenie blokady wymaga ustawienia nowego PIN-u (4-8 cyfr, bez 0000, 1234, powtorzen i ciagow); jesli dotad byl PIN domyslny, po odblokowaniu trzeba ustawic nowy. Wylaczenie blokady lub blokady po uspieniu wymaga PIN-u. Tryb awaryjny pyta o PIN przed otwarciem ustawien Androida i wlacza sie tylko po prawdziwych awariach. Coraz dluzsze przerwy po blednych PIN-ach (30 s, 1 min, 5 min, 15 min), odporne na zmiane zegara. Sprawdzanie PIN-u bez zacinania ekranu. Pasek systemowy ukryty przy blokadzie (o ile system pozwala). To blokada odstraszajaca, nie zabezpieczenie przed kradzieza."
+    "versionCode":  33,
+    "versionName":  "1.8.5",
+    "url":  "https://github.com/apm-medyka/navia-launcher-releases/releases/latest/download/navia-launcher-1.8.5.apk",
+    "sizeBytes":  75841372,
+    "sha256":  "b759d7cefeac5f540ff9dafb5f8a63631f98bf341b6d4a08da00738f3ecdc535",
+    "releaseNotes":  "Nowe ustawienia launchera. Pelny ekran: po lewej 8 dzialow (Ostrzezenia i glos, Mapa i nawigacja, Radio i muzyka, Dzwiek, Pojazd, Wyglad, Bezpieczenstwo, Aktualizacje), po prawej opcje wybranego dzialu. Wiekszy, czytelniejszy tekst, wieksze przelaczniki i przyciski, stały przycisk Gotowe. Rzadziej uzywane opcje pod \u0027Wiecej\u0027. Testy, diagnostyka, CAN, zdalne logi i ustawienia Androida przeniesione do ukrytego dzialu Serwis (przytrzymaj napis Ustawienia 3 s; przy wlaczonej blokadzie trzeba podac PIN). Kafelek USTAWIENIA ANDROID zniknal z menu opcji (jest w Serwisie). Wszystkie dotychczasowe ustawienia zostaja bez zmian. Zmiana PIN-u bez zacinania ekranu."
 }
