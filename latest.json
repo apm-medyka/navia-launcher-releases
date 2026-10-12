@@ -1,8 +1,8 @@
 {
-    "versionCode":  47,
-    "versionName":  "1.10.5",
-    "url":  "https://github.com/apm-medyka/navia-launcher-releases/releases/latest/download/navia-launcher-1.10.5.apk",
+    "versionCode":  48,
+    "versionName":  "1.10.6",
+    "url":  "https://github.com/apm-medyka/navia-launcher-releases/releases/latest/download/navia-launcher-1.10.6.apk",
     "sizeBytes":  75956104,
-    "sha256":  "d5b16c317b835bf274ca2e56bf1cc9908e5733c9f005375487f38c3f9401b66e",
-    "releaseNotes":  "Stacje w ostrzezeniu o zasiegu: limit czasu OSM i zapas ze stacji Nakordoni; zapytania o ceny po kolei (limit 2/s); poprawione polskie znaki w karcie."
+    "sha256":  "43ea31b41948a353bd3e2a99ec75daca28e69d55ed1e13b5ddc2c76c5e561c79",
+    "releaseNotes":  "Dotkniecie stacji w ostrzezeniu o zasiegu uruchamia nawigacje; odrzucanie nierealnych cen (mediana okolicy +/-10%); stacje z cenami od razu, OSM max 6 s."
 }
