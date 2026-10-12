@@ -1,8 +1,8 @@
 {
-    "versionCode":  40,
-    "versionName":  "1.9.2",
-    "url":  "https://github.com/apm-medyka/navia-launcher-releases/releases/latest/download/navia-launcher-1.9.2.apk",
-    "sizeBytes":  77556975,
-    "sha256":  "504e6ddd096080384980088b5d65328b3e5d5015a0f22366f6aa9d1a8dacac94",
-    "releaseNotes":  "Gong: teraz grany ta sama droga co komunikaty glosowe (kanal nawigacji), ktora w aucie jest slyszalna - wczesniej szedl kanalem multimediow i byl za cichy (ok. -15 dB). Glosniejszy, ale nadal lagodny; gdy nic nie gra, podbijany jak komunikat. Glosnosc zalezna od predkosci (GALA): lagodniej - +1 stopien od 60 km/h, kolejny co ok. 30 km/h, maks. +1/+2/+3 (czulosc niska/srednia/wysoka), z histereza i zmiana najwyzej o 1 stopien na kilka sekund; gdy glosnosc zmieni ktos inny (pokretlo lub GALA radia), launcher przyjmuje ja jako nowa baze i nie doklada swojego kroku. Ostrzezenia (ustap pierwszenstwa, progi): zapowiadane ok. 10 s wczesniej z poprawka na opoznienie GPS; tuz przed wypowiedzeniem sprawdzane, czy miejsce jest jeszcze przed autem - jesli za blisko lub juz miniete, komunikat jest pomijany; gdy czasu malo, bez gongu."
+    "versionCode":  41,
+    "versionName":  "1.9.3",
+    "url":  "https://github.com/apm-medyka/navia-launcher-releases/releases/latest/download/navia-launcher-1.9.3.apk",
+    "sizeBytes":  75874140,
+    "sha256":  "e6912d1f571c59a7e811f491a7f0ff0c368db779eb3bb739e3125dd7b4b0be31",
+    "releaseNotes":  "Gong tylko dla ostrzezen pokazanych na ekranie bez komunikatu glosowego (raz na ostrzezenie, najwyzej co 20 s). Ostrzezenia wypowiadane glosem nie maja juz gongu - glos zaczyna od razu, bez 1 s opoznienia. Gong nadal slyszalny jak w 1.9.2. Radio internetowe: logo stacji 20% wieksze, okladka nadal nieco mniejsza od logo."
 }
