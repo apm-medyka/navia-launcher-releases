@@ -1,8 +1,8 @@
 {
-    "versionCode":  37,
-    "versionName":  "1.8.9",
-    "url":  "https://github.com/apm-medyka/navia-launcher-releases/releases/latest/download/navia-launcher-1.8.9.apk",
-    "sizeBytes":  75841372,
-    "sha256":  "346eaabc4abde9ad3dec1b9ece88d03e40642e35259228a4f2e957d48f73afe6",
-    "releaseNotes":  "Glosnosc: przy starcie launcher nie zmienia juz glosnosci multimediow, gdy radio FYT ma wlasna glosnosc glowna, a na innych urzadzeniach przywraca ja dopiero po 8 s od uruchomienia. Nigdy nie przywraca ani nie zapamietuje glosnosci 0 ani maksymalnej. Dziennik diagnostyczny zapisuje teraz kazda zmiane glosnosci wykonana przez launcher (z przyczyna: start, komunikat, GALA, odciszenie, ustawienia) oraz stan glosnosci Androida przy kazdej zmianie glosnosci FYT. Dzialanie pokretla bez zmian."
+    "versionCode":  38,
+    "versionName":  "1.9.0",
+    "url":  "https://github.com/apm-medyka/navia-launcher-releases/releases/latest/download/navia-launcher-1.9.0.apk",
+    "sizeBytes":  75857756,
+    "sha256":  "4326b8431cd8949b57043a427337817e48bf89dfb740e71201091e12a78d4a9e",
+    "releaseNotes":  "Radio internetowe: logo stacji jest teraz zawsze widoczne jako osobny kafelek obok tytulu, w tym samym stylu co okladka (zaokraglone rogi, ramka, tlo dopasowane do logo - jasne lub ciemne, bez rozciagania i rozmycia malych ikon). Okladka albumu pojawia sie obok logo tylko wtedy, gdy jest dostepna; bez okladki nie ma pustego miejsca. Logo pochodzi z danych stacji (RadioBrowser), a gdy jest male lub go brak - z ikony strony stacji; w ostatecznosci inicjaly stacji. Logo jest zapisywane w pamieci urzadzenia. Gdy utwor nie ma okladki, logo stacji trafia tez do ekranu multimediow systemu. Komunikaty glosowe: bez krotkiego mrugniecia glosnosci (4-2-4) na poczatku komunikatu."
 }
