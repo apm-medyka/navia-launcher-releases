@@ -1,1 +1,8 @@
-{"versionCode":43,"versionName":"1.10.1","url":"https://github.com/apm-medyka/navia-launcher-releases/releases/latest/download/navia-launcher-1.10.1.apk","sizeBytes":75939720,"sha256":"c747992758c9f206238b97f7ae9087cf2c42bb73008c4a3da273ad04a98b55f1","releaseNotes":"1.10.1 - poprawka ostrzezen\n- Ustap pierwszenstwa / progi / zakaz wjazdu wykryte blisko (np. po skrecie, wolna jazda) znow sa mowione od razu - 1.9.2-1.10.0 pomijaly je jako \u0027za pozno\u0027. Pomijane sa tylko komunikaty, ktore czekaly w kolejce i juz nie zdaza, albo miejsce juz miniete.\n- Diagnostyka glosu: kazdy komunikat TTS zapisuje w logu wynik (speak/start/done/error, audio focus, glosnosc)."}
+{
+    "versionCode":  44,
+    "versionName":  "1.10.2",
+    "url":  "https://github.com/apm-medyka/navia-launcher-releases/releases/latest/download/navia-launcher-1.10.2.apk",
+    "sizeBytes":  75939720,
+    "sha256":  "683546cdcd0a1f99dcd5105531ddc12e2ca45e810c87aa371603afa4c0607ee4",
+    "releaseNotes":  "Ceny paliw (Pb95/ON/LPG) przy stacjach w ostrzezeniu o zasiegu + najtansze Pb95 w okolicy (Data by nakordoni.eu, przez Navia backend). Poprawka publikacji latest.json."
+}
