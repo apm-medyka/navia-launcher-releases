@@ -1,8 +1,8 @@
 {
-    "versionCode":  39,
-    "versionName":  "1.9.1",
-    "url":  "https://github.com/apm-medyka/navia-launcher-releases/releases/latest/download/navia-launcher-1.9.1.apk",
-    "sizeBytes":  75874140,
-    "sha256":  "b71cea23d880d76b3800b81402aa8eefe9df903ae0a657d4294a628805b3b27b",
-    "releaseNotes":  "Radio internetowe - nowy uklad panelu: u gory wieksze logo stacji z nazwa i oznaczeniem \"na zywo\", ponizej okladka albumu (troche mniejsza od logo), a obok niej wykonawca i pod nim tytul. Bez okladki wykonawca i tytul zajmuja jej miejsce. Dlugie napisy sa skracane wielokropkiem. Czarna okladka z niebieska strzalka przy \"Kochasz?\" (Sobel) to oryginalna okladka tego singla, a nie blad. Ekran STAN: pasek poziomu paliwa jest 3 razy grubszy."
+    "versionCode":  40,
+    "versionName":  "1.9.2",
+    "url":  "https://github.com/apm-medyka/navia-launcher-releases/releases/latest/download/navia-launcher-1.9.2.apk",
+    "sizeBytes":  77556975,
+    "sha256":  "504e6ddd096080384980088b5d65328b3e5d5015a0f22366f6aa9d1a8dacac94",
+    "releaseNotes":  "Gong: teraz grany ta sama droga co komunikaty glosowe (kanal nawigacji), ktora w aucie jest slyszalna - wczesniej szedl kanalem multimediow i byl za cichy (ok. -15 dB). Glosniejszy, ale nadal lagodny; gdy nic nie gra, podbijany jak komunikat. Glosnosc zalezna od predkosci (GALA): lagodniej - +1 stopien od 60 km/h, kolejny co ok. 30 km/h, maks. +1/+2/+3 (czulosc niska/srednia/wysoka), z histereza i zmiana najwyzej o 1 stopien na kilka sekund; gdy glosnosc zmieni ktos inny (pokretlo lub GALA radia), launcher przyjmuje ja jako nowa baze i nie doklada swojego kroku. Ostrzezenia (ustap pierwszenstwa, progi): zapowiadane ok. 10 s wczesniej z poprawka na opoznienie GPS; tuz przed wypowiedzeniem sprawdzane, czy miejsce jest jeszcze przed autem - jesli za blisko lub juz miniete, komunikat jest pomijany; gdy czasu malo, bez gongu."
 }
