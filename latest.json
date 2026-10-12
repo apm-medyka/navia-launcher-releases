@@ -1,8 +1,8 @@
 {
-    "versionCode":  38,
-    "versionName":  "1.9.0",
-    "url":  "https://github.com/apm-medyka/navia-launcher-releases/releases/latest/download/navia-launcher-1.9.0.apk",
-    "sizeBytes":  75857756,
-    "sha256":  "4326b8431cd8949b57043a427337817e48bf89dfb740e71201091e12a78d4a9e",
-    "releaseNotes":  "Radio internetowe: logo stacji jest teraz zawsze widoczne jako osobny kafelek obok tytulu, w tym samym stylu co okladka (zaokraglone rogi, ramka, tlo dopasowane do logo - jasne lub ciemne, bez rozciagania i rozmycia malych ikon). Okladka albumu pojawia sie obok logo tylko wtedy, gdy jest dostepna; bez okladki nie ma pustego miejsca. Logo pochodzi z danych stacji (RadioBrowser), a gdy jest male lub go brak - z ikony strony stacji; w ostatecznosci inicjaly stacji. Logo jest zapisywane w pamieci urzadzenia. Gdy utwor nie ma okladki, logo stacji trafia tez do ekranu multimediow systemu. Komunikaty glosowe: bez krotkiego mrugniecia glosnosci (4-2-4) na poczatku komunikatu."
+    "versionCode":  39,
+    "versionName":  "1.9.1",
+    "url":  "https://github.com/apm-medyka/navia-launcher-releases/releases/latest/download/navia-launcher-1.9.1.apk",
+    "sizeBytes":  75874140,
+    "sha256":  "b71cea23d880d76b3800b81402aa8eefe9df903ae0a657d4294a628805b3b27b",
+    "releaseNotes":  "Radio internetowe - nowy uklad panelu: u gory wieksze logo stacji z nazwa i oznaczeniem \"na zywo\", ponizej okladka albumu (troche mniejsza od logo), a obok niej wykonawca i pod nim tytul. Bez okladki wykonawca i tytul zajmuja jej miejsce. Dlugie napisy sa skracane wielokropkiem. Czarna okladka z niebieska strzalka przy \"Kochasz?\" (Sobel) to oryginalna okladka tego singla, a nie blad. Ekran STAN: pasek poziomu paliwa jest 3 razy grubszy."
 }
