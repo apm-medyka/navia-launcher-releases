@@ -1,8 +1,8 @@
 {
-    "versionCode":  49,
-    "versionName":  "1.11.0",
-    "url":  "https://github.com/apm-medyka/navia-launcher-releases/releases/latest/download/navia-launcher-1.11.0.apk",
-    "sizeBytes":  75972516,
-    "sha256":  "ac86ab44781f4063228be66760fca6929567f0348dff29ec73c0a3c22da6d466",
-    "releaseNotes":  "Navia Voice: nastepna/poprzednia stacja radia, glosniej/ciszej, najtansza stacja paliw (nawigacja), ile mam zasiegu; akcje strukturalne z backendu; logowanie przyciskow (NaviaKeys)"
+    "versionCode":  50,
+    "versionName":  "1.11.1",
+    "url":  "https://github.com/apm-medyka/navia-launcher-releases/releases/latest/download/navia-launcher-1.11.1.apk",
+    "sizeBytes":  75988900,
+    "sha256":  "af824e3f666bb0193dd7c8e8254e07b407771fc1080c9d14b905784ecc5e0e01",
+    "releaseNotes":  "Diagnostyka: tester \u0027Przyciski kierownicy\u0027 (klawisze, FYT STEER, intenty, zapis key_event); \u0027ile paliwa w baku\u0027/\u0027ile mam paliwa\u0027 -\u003e poziom paliwa zamiast szukania stacji"
 }
