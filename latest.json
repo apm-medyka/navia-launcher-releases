@@ -1,8 +1,8 @@
 {
-    "versionCode":  35,
-    "versionName":  "1.8.7",
-    "url":  "https://github.com/apm-medyka/navia-launcher-releases/releases/latest/download/navia-launcher-1.8.7.apk",
-    "sizeBytes":  77515343,
-    "sha256":  "cd49a14df28a22e2373ff9bb0daacbd63af0ef2565422fa84696b4b0af64c73c",
-    "releaseNotes":  "Czytelniejsze przyciski w ustawieniach: wszystkie przyciski, zakladki i wybory maja co najmniej 56 dp wysokosci i napisy 18 sp, przyciski na turkusowym tle maja ciemny napis, wybrana zakladka i opcja sa wyraznie wypelnione, menu po lewej 20 sp, opisy jasniejsze i wieksze. Ustawienia nie zmniejszaja sie przy malej skali czcionki systemu. Dotyczy tez Serwisu. Zachowanie i zapisane ustawienia bez zmian."
+    "versionCode":  36,
+    "versionName":  "1.8.8",
+    "url":  "https://github.com/apm-medyka/navia-launcher-releases/releases/latest/download/navia-launcher-1.8.8.apk",
+    "sizeBytes":  75841368,
+    "sha256":  "c06cd63c45ea8421259b37fd53da8800051ac37a704ba728b8a846cea9c11dce",
+    "releaseNotes":  "Glos i radio: podczas komunikatow radio (internetowe, muzyka, inne aplikacje) jest tylko sciszane i nigdy nie robi sie glosniejsze - komunikat nie podbija juz wspolnej glosnosci, gdy cos gra; po komunikacie glosnosc wraca do poprzedniej. Delikatny gong: przy nowym ostrzezeniu na ekranie (progi, przekroczenie predkosci, zakaz wjazdu, ustap pierwszenstwa itd.) raz cichy gong, potem glos (nigdy na siebie). Bez powtarzania, dopoki to samo ostrzezenie jest na ekranie, i najwyzej raz na 20 s; czeka na Mapy Google. Gong cichszy niz wczesniej, zamiast ostrego pikniecia. Wylaczysz go w Ustawieniach: Gong dla ostrzezen na ekranie."
 }
