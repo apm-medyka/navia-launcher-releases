@@ -1,8 +1,8 @@
 {
-    "versionCode":  36,
-    "versionName":  "1.8.8",
-    "url":  "https://github.com/apm-medyka/navia-launcher-releases/releases/latest/download/navia-launcher-1.8.8.apk",
-    "sizeBytes":  75841368,
-    "sha256":  "c06cd63c45ea8421259b37fd53da8800051ac37a704ba728b8a846cea9c11dce",
-    "releaseNotes":  "Glos i radio: podczas komunikatow radio (internetowe, muzyka, inne aplikacje) jest tylko sciszane i nigdy nie robi sie glosniejsze - komunikat nie podbija juz wspolnej glosnosci, gdy cos gra; po komunikacie glosnosc wraca do poprzedniej. Delikatny gong: przy nowym ostrzezeniu na ekranie (progi, przekroczenie predkosci, zakaz wjazdu, ustap pierwszenstwa itd.) raz cichy gong, potem glos (nigdy na siebie). Bez powtarzania, dopoki to samo ostrzezenie jest na ekranie, i najwyzej raz na 20 s; czeka na Mapy Google. Gong cichszy niz wczesniej, zamiast ostrego pikniecia. Wylaczysz go w Ustawieniach: Gong dla ostrzezen na ekranie."
+    "versionCode":  37,
+    "versionName":  "1.8.9",
+    "url":  "https://github.com/apm-medyka/navia-launcher-releases/releases/latest/download/navia-launcher-1.8.9.apk",
+    "sizeBytes":  75841372,
+    "sha256":  "346eaabc4abde9ad3dec1b9ece88d03e40642e35259228a4f2e957d48f73afe6",
+    "releaseNotes":  "Glosnosc: przy starcie launcher nie zmienia juz glosnosci multimediow, gdy radio FYT ma wlasna glosnosc glowna, a na innych urzadzeniach przywraca ja dopiero po 8 s od uruchomienia. Nigdy nie przywraca ani nie zapamietuje glosnosci 0 ani maksymalnej. Dziennik diagnostyczny zapisuje teraz kazda zmiane glosnosci wykonana przez launcher (z przyczyna: start, komunikat, GALA, odciszenie, ustawienia) oraz stan glosnosci Androida przy kazdej zmianie glosnosci FYT. Dzialanie pokretla bez zmian."
 }
