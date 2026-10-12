@@ -1,8 +1,8 @@
 {
-    "versionCode":  45,
-    "versionName":  "1.10.3",
-    "url":  "https://github.com/apm-medyka/navia-launcher-releases/releases/latest/download/navia-launcher-1.10.3.apk",
-    "sizeBytes":  75939720,
-    "sha256":  "96b98edcc3048c6780b8a3f56b42f325cb4a29f2e14a81f3e50e70f3aebe0a9b",
-    "releaseNotes":  "Ceny paliw z \u0027zl\u0027 przy stacjach; tryb testowy range_real (prawdziwe ceny z backendu)."
+    "versionCode":  46,
+    "versionName":  "1.10.4",
+    "url":  "https://github.com/apm-medyka/navia-launcher-releases/releases/latest/download/navia-launcher-1.10.4.apk",
+    "sizeBytes":  75956104,
+    "sha256":  "8549e1c2a4668f57035a9ac5844e474d0c3b8776dfa1b17c867c84bc93fa85d7",
+    "releaseNotes":  "Ceny paliw pobierane bezposrednio z Nakordoni (cache 45 min), Data by nakordoni.eu."
 }
