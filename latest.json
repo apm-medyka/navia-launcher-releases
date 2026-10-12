@@ -1,8 +1,8 @@
 {
-    "versionCode":  44,
-    "versionName":  "1.10.2",
-    "url":  "https://github.com/apm-medyka/navia-launcher-releases/releases/latest/download/navia-launcher-1.10.2.apk",
+    "versionCode":  45,
+    "versionName":  "1.10.3",
+    "url":  "https://github.com/apm-medyka/navia-launcher-releases/releases/latest/download/navia-launcher-1.10.3.apk",
     "sizeBytes":  75939720,
-    "sha256":  "683546cdcd0a1f99dcd5105531ddc12e2ca45e810c87aa371603afa4c0607ee4",
-    "releaseNotes":  "Ceny paliw (Pb95/ON/LPG) przy stacjach w ostrzezeniu o zasiegu + najtansze Pb95 w okolicy (Data by nakordoni.eu, przez Navia backend). Poprawka publikacji latest.json."
+    "sha256":  "96b98edcc3048c6780b8a3f56b42f325cb4a29f2e14a81f3e50e70f3aebe0a9b",
+    "releaseNotes":  "Ceny paliw z \u0027zl\u0027 przy stacjach; tryb testowy range_real (prawdziwe ceny z backendu)."
 }
