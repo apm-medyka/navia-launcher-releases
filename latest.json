@@ -1,8 +1,8 @@
 {
-    "versionCode":  50,
-    "versionName":  "1.11.1",
-    "url":  "https://github.com/apm-medyka/navia-launcher-releases/releases/latest/download/navia-launcher-1.11.1.apk",
-    "sizeBytes":  75988900,
-    "sha256":  "af824e3f666bb0193dd7c8e8254e07b407771fc1080c9d14b905784ecc5e0e01",
-    "releaseNotes":  "Diagnostyka: tester \u0027Przyciski kierownicy\u0027 (klawisze, FYT STEER, intenty, zapis key_event); \u0027ile paliwa w baku\u0027/\u0027ile mam paliwa\u0027 -\u003e poziom paliwa zamiast szukania stacji"
+    "versionCode":  51,
+    "versionName":  "1.11.2",
+    "url":  "https://github.com/apm-medyka/navia-launcher-releases/releases/latest/download/navia-launcher-1.11.2.apk",
+    "sizeBytes":  76005312,
+    "sha256":  "2ef22bb89b0bfb2bce03b2ee035cff692a9d054e7ab1151e4775d8853880d09c",
+    "releaseNotes":  "Przycisk telefonu (com.syu.ms.bt): 1x otwiera telefon BT gdy nie otworzyl sie sam, 2x Navia Voice; przy aktywnym CarLink nic nie robi (przycisk dla CarLink); log w testerze i key_event; przelacznik w Diagnostyce"
 }
