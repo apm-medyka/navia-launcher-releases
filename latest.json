@@ -1,8 +1,8 @@
 {
-    "versionCode":  53,
-    "versionName":  "1.11.4",
-    "url":  "https://github.com/apm-medyka/navia-launcher-releases/releases/latest/download/navia-launcher-1.11.4.apk",
+    "versionCode":  54,
+    "versionName":  "1.11.5",
+    "url":  "https://github.com/apm-medyka/navia-launcher-releases/releases/latest/download/navia-launcher-1.11.5.apk",
     "sizeBytes":  76005312,
-    "sha256":  "3da4b536e33084ef82dc59594669a408900562d8c20e87cc2b19d525d9390f4b",
-    "releaseNotes":  "1.11.4 - suwak glosnosci komunikatow dziala przy radiu\n- Plus: radio sciszane mocniej pod komunikatem (+50 = z 20% do 10%), wiec glos wyrazniej odstaje; bez radia jak dotad podbicie glosnosci.\n- Minus: cichszy glos i gong (-50 = polowa). Wczesniej przy grajacym radiu suwak na plusie nic nie zmienial, a gong go ignorowal.\n- Log tts zapisuje ustawienie suwaka (offset)."
+    "sha256":  "2a88796be3b3de1d557637ab15fac606b5314546329fbc37e420b1153637b9c1",
+    "releaseNotes":  "Nakordoni (zgloszenie #222): globalny limiter 700 ms (\u003c=1,43 zap./s), single-flight, backoff z Retry-After bez ponowien, cache 60 min na dysku + 10 min po bledzie; ceny tylko przy karcie zasiegu i komendzie \u0027najtansza stacja\u0027; bez fallbacku przez backend"
 }
