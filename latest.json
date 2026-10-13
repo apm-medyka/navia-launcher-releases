@@ -1,8 +1,8 @@
 {
-    "versionCode":  56,
-    "versionName":  "1.11.7",
-    "url":  "https://github.com/apm-medyka/navia-launcher-releases/releases/latest/download/navia-launcher-1.11.7.apk",
+    "versionCode":  57,
+    "versionName":  "1.12.0",
+    "url":  "https://github.com/apm-medyka/navia-launcher-releases/releases/latest/download/navia-launcher-1.12.0.apk",
     "sizeBytes":  76021696,
-    "sha256":  "781598504200098546cf78726df32bf3d73e091766ec6570ec8e1509a1820e15",
-    "releaseNotes":  "1.11.7 - przycisk telefonu: diagnostyka i pewniejsze otwieranie\n- Pojedyncze nacisniecie otwiera telefon BT najpierw jako ekran (Navia jest ekranem glownym), potem przez skrot aplikacji, na koncu przez usluge fabryczna; kazda proba zapisuje wynik w logu.\n- Log zapisuje stan, od ktorego zalezy, czy radio FYT w ogole wysyla przycisk telefonu (sys.carlink.type, wlaczenie funkcji, dostep do uzycia, aplikacja BT)."
+    "sha256":  "86b34917b0d6a48a6d753780f33fc35ac5b3dda35d5afbb353b2f7a1b7e357ab",
+    "releaseNotes":  "1.12.0: glos - sygnalizacja swietlna (przelacznik, max raz na 25 s), wybor pasa z Google Maps + OSM turn:lanes (przelacznik), log noentry_candidate do diagnozy zakazow wjazdu"
 }
