@@ -1,8 +1,8 @@
 {
-    "versionCode":  52,
-    "versionName":  "1.11.3",
-    "url":  "https://github.com/apm-medyka/navia-launcher-releases/releases/latest/download/navia-launcher-1.11.3.apk",
+    "versionCode":  53,
+    "versionName":  "1.11.4",
+    "url":  "https://github.com/apm-medyka/navia-launcher-releases/releases/latest/download/navia-launcher-1.11.4.apk",
     "sizeBytes":  76005312,
-    "sha256":  "9b079092aa8195df4d6269129afa3226616551155ccccb6d81dbbbac4e1a4dff",
-    "releaseNotes":  "1.11.3 - komunikaty glosowe znow slyszalne\n- Glos ostrzezen, gong i odpowiedzi Navia Voice graja teraz na kanale multimediow (jak radio), a nie na kanale nawigacji, ktorego to radio FYT nie wypuszcza na glosniki (log 13.10: TTS mowil poprawnie, ale nic nie bylo slychac). Radio jest na czas komunikatu sciszane do 20%.\n- Log: zdarzenia tts i gong_play pokazuja uzyty kanal (usage)."
+    "sha256":  "3da4b536e33084ef82dc59594669a408900562d8c20e87cc2b19d525d9390f4b",
+    "releaseNotes":  "1.11.4 - suwak glosnosci komunikatow dziala przy radiu\n- Plus: radio sciszane mocniej pod komunikatem (+50 = z 20% do 10%), wiec glos wyrazniej odstaje; bez radia jak dotad podbicie glosnosci.\n- Minus: cichszy glos i gong (-50 = polowa). Wczesniej przy grajacym radiu suwak na plusie nic nie zmienial, a gong go ignorowal.\n- Log tts zapisuje ustawienie suwaka (offset)."
 }
