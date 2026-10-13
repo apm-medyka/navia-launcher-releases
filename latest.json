@@ -1,8 +1,8 @@
 {
-    "versionCode":  54,
-    "versionName":  "1.11.5",
-    "url":  "https://github.com/apm-medyka/navia-launcher-releases/releases/latest/download/navia-launcher-1.11.5.apk",
-    "sizeBytes":  76005312,
-    "sha256":  "2a88796be3b3de1d557637ab15fac606b5314546329fbc37e420b1153637b9c1",
-    "releaseNotes":  "Nakordoni (zgloszenie #222): globalny limiter 700 ms (\u003c=1,43 zap./s), single-flight, backoff z Retry-After bez ponowien, cache 60 min na dysku + 10 min po bledzie; ceny tylko przy karcie zasiegu i komendzie \u0027najtansza stacja\u0027; bez fallbacku przez backend"
+    "versionCode":  55,
+    "versionName":  "1.11.6",
+    "url":  "https://github.com/apm-medyka/navia-launcher-releases/releases/latest/download/navia-launcher-1.11.6.apk",
+    "sizeBytes":  76021696,
+    "sha256":  "d924b5d3207a81eaf74591298a4e40871c654ce098347dd3f36a48bbc9046eb6",
+    "releaseNotes":  "1.11.6 - glosniejsze komunikaty, tester przyciskow\n- Przy grajacym radiu internetowym komunikat podnosi glosnosc glowna FYT o max 2 kroki, a radio jest wtedy sciszane do 10% (radio nigdy nie wychodzi glosniej). Bez podbicia przy radiu FM i muzyce z innych aplikacji.\n- Gong glosniejszy (normalizacja do -1 dB + wzmocnienie +6 dB).\n- Gdy syntezator mowy zglosi blad (zerwane polaczenie po restarcie aplikacji), silnik jest uruchamiany ponownie i komunikat powtarzany.\n- Tester przyciskow kierownicy pokazuje tez komendy multimediow (nastepny/poprzedni/play/pauza) - FYT wysyla je do sesji radia, nie jako klawisze."
 }
