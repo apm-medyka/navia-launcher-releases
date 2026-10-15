@@ -1,8 +1,8 @@
 {
-    "versionCode":  64,
-    "versionName":  "1.12.7",
-    "url":  "https://github.com/apm-medyka/navia-launcher-releases/releases/latest/download/navia-launcher-1.12.7.apk",
-    "sizeBytes":  76070880,
-    "sha256":  "30110d8678b06795288bf4d66968e13c1336c7852a545c77cee935eea6acf4cd",
-    "releaseNotes":  "1.12.7: Test podglądu DVR także w Serwis \u003e Diagnostyka; znak ograniczenia trzyma ostatni limit na skrzyżowaniach i przy braku danych OSM (~N)"
+    "versionCode":  65,
+    "versionName":  "1.12.8",
+    "url":  "https://github.com/apm-medyka/navia-launcher-releases/releases/latest/download/navia-launcher-1.12.8.apk",
+    "sizeBytes":  76087260,
+    "sha256":  "121c14d3d089b26178436fa0b94ef23c6b9ba06015b47dfe6e49ccc7cbfa7bec",
+    "releaseNotes":  "1.12.8: Kamera przy parkowaniu (podgląd DVR po zwolnieniu i po wstecznym, przełącznik w ustawieniach); osiedle w strefie 30 pokazuje ~30 zamiast ~50"
 }
