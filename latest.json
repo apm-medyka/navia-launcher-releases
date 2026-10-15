@@ -1,8 +1,8 @@
 {
-    "versionCode":  62,
-    "versionName":  "1.12.5",
-    "url":  "https://github.com/apm-medyka/navia-launcher-releases/releases/latest/download/navia-launcher-1.12.5.apk",
+    "versionCode":  63,
+    "versionName":  "1.12.6",
+    "url":  "https://github.com/apm-medyka/navia-launcher-releases/releases/latest/download/navia-launcher-1.12.6.apk",
     "sizeBytes":  76070876,
-    "sha256":  "b7020821f0541cb58e07fe31731a7de9b322e68fc14f555a340c136ff982aff4",
-    "releaseNotes":  "1.12.5: diagnostyka - logowanie ostrzeżeń ADAS z DVR razem ze stanem głośności"
+    "sha256":  "7ca55674f1b7d7ea95f5c0585a7426fe14daf1cecaaa9c9b748968389cb0cb2e",
+    "releaseNotes":  "1.12.6: Podbij ostrzeżenia DVR - głośniej na ok. 3 s przy ostrzeżeniu z kamery DVR (domyślnie wł.)"
 }
