@@ -1,8 +1,8 @@
 {
-    "versionCode":  61,
-    "versionName":  "1.12.4",
-    "url":  "https://github.com/apm-medyka/navia-launcher-releases/releases/latest/download/navia-launcher-1.12.4.apk",
-    "sizeBytes":  76070880,
-    "sha256":  "2180888e447418f7c195537b21923aaa02d02f36960d7ea2d7a54c7b87971c29",
-    "releaseNotes":  "1.12.4: Diagnostyka - Test podglądu DVR (obraz przedniej kamery udostępniany przez aplikację DVR, tylko na postoju)"
+    "versionCode":  62,
+    "versionName":  "1.12.5",
+    "url":  "https://github.com/apm-medyka/navia-launcher-releases/releases/latest/download/navia-launcher-1.12.5.apk",
+    "sizeBytes":  76070876,
+    "sha256":  "b7020821f0541cb58e07fe31731a7de9b322e68fc14f555a340c136ff982aff4",
+    "releaseNotes":  "1.12.5: diagnostyka - logowanie ostrzeżeń ADAS z DVR razem ze stanem głośności"
 }
