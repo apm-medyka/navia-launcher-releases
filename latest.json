@@ -1,8 +1,8 @@
 {
-    "versionCode":  59,
-    "versionName":  "1.12.2",
-    "url":  "https://github.com/apm-medyka/navia-launcher-releases/releases/latest/download/navia-launcher-1.12.2.apk",
+    "versionCode":  60,
+    "versionName":  "1.12.3",
+    "url":  "https://github.com/apm-medyka/navia-launcher-releases/releases/latest/download/navia-launcher-1.12.3.apk",
     "sizeBytes":  76038080,
-    "sha256":  "4ab5ec5bd8a0d0c86d56e3c24818735259bf547bc3b062266b7c9baba9fb77fd",
-    "releaseNotes":  "1.12.2: stabilniejsze ostrzezenia (zapasowe serwery OSM, odrzucanie odpowiedzi \u0027serwer zajety\u0027, obszar z pamieci do 7 dni), adres w Stanie pojazdu nie znika w trakcie jazdy, diagnostyka dzwieku innych aplikacji (DVR)"
+    "sha256":  "ed51728fbfc08fe48db735670a95249aea98dd173bd2e9b2e62a57ee462c3548",
+    "releaseNotes":  "1.12.3: diagnostyka - spis kamer i aplikacji DVR (tylko odczyt, bez otwierania kamery)"
 }
