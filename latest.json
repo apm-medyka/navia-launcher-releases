@@ -1,8 +1,8 @@
 {
-    "versionCode":  58,
-    "versionName":  "1.12.1",
-    "url":  "https://github.com/apm-medyka/navia-launcher-releases/releases/latest/download/navia-launcher-1.12.1.apk",
+    "versionCode":  59,
+    "versionName":  "1.12.2",
+    "url":  "https://github.com/apm-medyka/navia-launcher-releases/releases/latest/download/navia-launcher-1.12.2.apk",
     "sizeBytes":  76038080,
-    "sha256":  "4e461a0992314ba3ecb4271a746b0521525d58001bd08c8d2ba902a835b68448",
-    "releaseNotes":  "1.12.1: sygnalizacja na skrzyzowaniach i przejsciach z sygnalizacja (wczesniej pomijana), krotki komunikat zakazu wjazdu gdy wykryty blisko, powod braku podbicia glosnosci w logach, przycisk telefonu cmd=1, log zapytan o ceny paliw, karta manewru Google Maps na mapie"
+    "sha256":  "4ab5ec5bd8a0d0c86d56e3c24818735259bf547bc3b062266b7c9baba9fb77fd",
+    "releaseNotes":  "1.12.2: stabilniejsze ostrzezenia (zapasowe serwery OSM, odrzucanie odpowiedzi \u0027serwer zajety\u0027, obszar z pamieci do 7 dni), adres w Stanie pojazdu nie znika w trakcie jazdy, diagnostyka dzwieku innych aplikacji (DVR)"
 }
