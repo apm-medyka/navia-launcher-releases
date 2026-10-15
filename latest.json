@@ -1,8 +1,8 @@
 {
-    "versionCode":  60,
-    "versionName":  "1.12.3",
-    "url":  "https://github.com/apm-medyka/navia-launcher-releases/releases/latest/download/navia-launcher-1.12.3.apk",
-    "sizeBytes":  76038080,
-    "sha256":  "ed51728fbfc08fe48db735670a95249aea98dd173bd2e9b2e62a57ee462c3548",
-    "releaseNotes":  "1.12.3: diagnostyka - spis kamer i aplikacji DVR (tylko odczyt, bez otwierania kamery)"
+    "versionCode":  61,
+    "versionName":  "1.12.4",
+    "url":  "https://github.com/apm-medyka/navia-launcher-releases/releases/latest/download/navia-launcher-1.12.4.apk",
+    "sizeBytes":  76070880,
+    "sha256":  "2180888e447418f7c195537b21923aaa02d02f36960d7ea2d7a54c7b87971c29",
+    "releaseNotes":  "1.12.4: Diagnostyka - Test podglądu DVR (obraz przedniej kamery udostępniany przez aplikację DVR, tylko na postoju)"
 }
