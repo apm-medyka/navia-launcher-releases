@@ -1,8 +1,8 @@
 {
-    "versionCode":  66,
-    "versionName":  "1.12.9",
-    "url":  "https://github.com/apm-medyka/navia-launcher-releases/releases/latest/download/navia-launcher-1.12.9.apk",
-    "sizeBytes":  77863320,
-    "sha256":  "c6a4d16063ab688946409dee31bb0b35f2158d14ce6fe82639e86ca582ac295a",
-    "releaseNotes":  "1.12.9: ograniczenia prędkości - odrzucanie nieaktualnych serwerów OSM, lepsze dopasowanie drogi na skrzyżowaniach, strefy PL:zone; płynniejszy podgląd DVR (rysowanie bez przeładowań)"
+    "versionCode":  67,
+    "versionName":  "1.12.10",
+    "url":  "https://github.com/apm-medyka/navia-launcher-releases/releases/latest/download/navia-launcher-1.12.10.apk",
+    "sizeBytes":  76121277,
+    "sha256":  "0071c9dd16fcb3ebee4e344fedad7f1e39875e197defecd2742c79e194a61c2f",
+    "releaseNotes":  "1.12.10: ciszej komunikaty - podbicie głośności maks. +1..+3 stopnie wg suwaka (było do +8), z radiem +1, gong +3 dB"
 }
