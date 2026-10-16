@@ -1,8 +1,8 @@
 {
-    "versionCode":  69,
-    "versionName":  "1.12.12",
-    "url":  "https://github.com/apm-medyka/navia-launcher-releases/releases/latest/download/navia-launcher-1.12.12.apk",
-    "sizeBytes":  76121253,
-    "sha256":  "499516190a60ee5168477e8ab540468d76b861e6d7d97dccb777836a95eddf2f",
-    "releaseNotes":  "1.12.12: stabilniejsze pobieranie OSM (bez mail.ru, mniejsze zapytania, rotacja i backoff, pobieranie z wyprzedzeniem), kamera parkowania mniej nerwowa, pewniejsza wysyłka logów + heartbeat, sprzątanie"
+    "versionCode":  70,
+    "versionName":  "1.12.13",
+    "url":  "https://github.com/apm-medyka/navia-launcher-releases/releases/latest/download/navia-launcher-1.12.13.apk",
+    "sizeBytes":  76121257,
+    "sha256":  "6110ee9fe3922c141fedfc0d49752bc5a92a57252b197cf68c525246bb96d662",
+    "releaseNotes":  "1.12.13: karta manewru także z Sygic i Mapy.com (strzałka z powiadomienia), log źródła"
 }
