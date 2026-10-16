@@ -1,8 +1,8 @@
 {
-    "versionCode":  72,
-    "versionName":  "1.12.15",
-    "url":  "https://github.com/apm-medyka/navia-launcher-releases/releases/latest/download/navia-launcher-1.12.15.apk",
-    "sizeBytes":  76121257,
-    "sha256":  "25320503a7a39d628df3428c148e41ae490d1f473355d948b033704fe624e110",
-    "releaseNotes":  "1.12.15: jeden wspólny adres dla Statusu pojazdu i mapy (ulica z OSM + miasto/numer z geokodera, bez migania)"
+    "versionCode":  73,
+    "versionName":  "1.12.16",
+    "url":  "https://github.com/apm-medyka/navia-launcher-releases/releases/latest/download/navia-launcher-1.12.16.apk",
+    "sizeBytes":  76121253,
+    "sha256":  "b5c126ddb5fada81a2530817a34db11e56635bc7e7bf0470ff4cc3179b20d1b3",
+    "releaseNotes":  "1.12.16: karta manewru od razu po starcie/reinstalacji, gdy nawigacja już działa"
 }
