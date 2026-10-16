@@ -1,8 +1,8 @@
 {
-    "versionCode":  67,
-    "versionName":  "1.12.10",
-    "url":  "https://github.com/apm-medyka/navia-launcher-releases/releases/latest/download/navia-launcher-1.12.10.apk",
+    "versionCode":  68,
+    "versionName":  "1.12.11",
+    "url":  "https://github.com/apm-medyka/navia-launcher-releases/releases/latest/download/navia-launcher-1.12.11.apk",
     "sizeBytes":  76121277,
-    "sha256":  "0071c9dd16fcb3ebee4e344fedad7f1e39875e197defecd2742c79e194a61c2f",
-    "releaseNotes":  "1.12.10: ciszej komunikaty - podbicie głośności maks. +1..+3 stopnie wg suwaka (było do +8), z radiem +1, gong +3 dB"
+    "sha256":  "c3f3ce06d2c671e070d66fcf31412f58a1aa01934f8b3c0201c3c7db88b0ab5d",
+    "releaseNotes":  "1.12.11: suwak Głośność komunikatów działa w całym zakresie (TTS, gong, podbicie 0..+3), przycisk Test komunikatu"
 }
