@@ -1,8 +1,8 @@
 {
-    "versionCode":  70,
-    "versionName":  "1.12.13",
-    "url":  "https://github.com/apm-medyka/navia-launcher-releases/releases/latest/download/navia-launcher-1.12.13.apk",
+    "versionCode":  71,
+    "versionName":  "1.12.14",
+    "url":  "https://github.com/apm-medyka/navia-launcher-releases/releases/latest/download/navia-launcher-1.12.14.apk",
     "sizeBytes":  76121257,
-    "sha256":  "6110ee9fe3922c141fedfc0d49752bc5a92a57252b197cf68c525246bb96d662",
-    "releaseNotes":  "1.12.13: karta manewru także z Sygic i Mapy.com (strzałka z powiadomienia), log źródła"
+    "sha256":  "68fcb539930976d677a39370f429bd8c4c9b0a296e1450a613ccf5f0c13dac77",
+    "releaseNotes":  "1.12.14: duża karta manewru na górze mapy, usunięta z Stanu pojazdu, bez dystansu całej trasy"
 }
