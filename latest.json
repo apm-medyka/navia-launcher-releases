@@ -1,8 +1,8 @@
 {
-    "versionCode":  68,
-    "versionName":  "1.12.11",
-    "url":  "https://github.com/apm-medyka/navia-launcher-releases/releases/latest/download/navia-launcher-1.12.11.apk",
-    "sizeBytes":  76121277,
-    "sha256":  "c3f3ce06d2c671e070d66fcf31412f58a1aa01934f8b3c0201c3c7db88b0ab5d",
-    "releaseNotes":  "1.12.11: suwak Głośność komunikatów działa w całym zakresie (TTS, gong, podbicie 0..+3), przycisk Test komunikatu"
+    "versionCode":  69,
+    "versionName":  "1.12.12",
+    "url":  "https://github.com/apm-medyka/navia-launcher-releases/releases/latest/download/navia-launcher-1.12.12.apk",
+    "sizeBytes":  76121253,
+    "sha256":  "499516190a60ee5168477e8ab540468d76b861e6d7d97dccb777836a95eddf2f",
+    "releaseNotes":  "1.12.12: stabilniejsze pobieranie OSM (bez mail.ru, mniejsze zapytania, rotacja i backoff, pobieranie z wyprzedzeniem), kamera parkowania mniej nerwowa, pewniejsza wysyłka logów + heartbeat, sprzątanie"
 }
