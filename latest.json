@@ -1,8 +1,8 @@
 {
-    "versionCode":  76,
-    "versionName":  "1.13.1",
-    "url":  "https://github.com/apm-medyka/navia-launcher-releases/releases/latest/download/navia-launcher-1.13.1.apk",
-    "sizeBytes":  76252325,
-    "sha256":  "e1318213f28d2f67b5d571d119a8c0fd7f01f1bf1017aa4a2c0f08bcb4af89fe",
-    "releaseNotes":  "1.13.1: ekran STAN na mniejszym ekranie radia (1024x600): kompaktowe kafelki ulubionych i karta przypomnień, wskaźnik paliwa znów nieobcięty"
+    "versionCode":  77,
+    "versionName":  "1.14.0",
+    "url":  "https://github.com/apm-medyka/navia-launcher-releases/releases/latest/download/navia-launcher-1.14.0.apk",
+    "sizeBytes":  76301477,
+    "sha256":  "25683ea85c87b7cf02c3c808575bc27087adc49a9c9188111022ae127bb51dfd",
+    "releaseNotes":  "1.14.0: dane drogowe offline dla całej Polski (OSM, odświeżane co tydzień) - limity i znaki działają bez serwera Overpass; \u0027Ustąp pierwszeństwa\u0027 nie jest mówione bliżej niż 30 m; sprawdzanie aktualizacji przy każdym włączeniu ekranu i co 3 h."
 }
