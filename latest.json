@@ -1,8 +1,8 @@
 {
-    "versionCode":  77,
-    "versionName":  "1.14.0",
-    "url":  "https://github.com/apm-medyka/navia-launcher-releases/releases/latest/download/navia-launcher-1.14.0.apk",
+    "versionCode":  78,
+    "versionName":  "1.14.1",
+    "url":  "https://github.com/apm-medyka/navia-launcher-releases/releases/latest/download/navia-launcher-1.14.1.apk",
     "sizeBytes":  76301477,
-    "sha256":  "25683ea85c87b7cf02c3c808575bc27087adc49a9c9188111022ae127bb51dfd",
-    "releaseNotes":  "1.14.0: dane drogowe offline dla całej Polski (OSM, odświeżane co tydzień) - limity i znaki działają bez serwera Overpass; \u0027Ustąp pierwszeństwa\u0027 nie jest mówione bliżej niż 30 m; sprawdzanie aktualizacji przy każdym włączeniu ekranu i co 3 h."
+    "sha256":  "de5d2fcfa362142117d02d1d114617997ea7db146a1a98cc541131397ac5add7",
+    "releaseNotes":  "1.14.1: dane drogowe całej Polski pobierają się w tle przez dowolną sieć (najpierw okolica auta); opcja \u0027Cała Polska tylko przez Wi-Fi\u0027 w Ustawienia \u003e Aktualizacje \u003e Dane drogowe (domyślnie wyłączona)."
 }
