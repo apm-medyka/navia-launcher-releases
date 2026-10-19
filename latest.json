@@ -1,8 +1,8 @@
 {
-    "versionCode":  75,
-    "versionName":  "1.13.0",
-    "url":  "https://github.com/apm-medyka/navia-launcher-releases/releases/latest/download/navia-launcher-1.13.0.apk",
+    "versionCode":  76,
+    "versionName":  "1.13.1",
+    "url":  "https://github.com/apm-medyka/navia-launcher-releases/releases/latest/download/navia-launcher-1.13.1.apk",
     "sizeBytes":  76252325,
-    "sha256":  "5969f3d641200cd6ec5d43c2d2ee610af2539a8ef3b430f10d00bf861cc4be2d",
-    "releaseNotes":  "1.13.0: Dziennik tras (mapka trasy, paliwo i koszt, podsumowanie miesiąca), przypomnienia serwisowe (data/przebieg, komunikat przy starcie, odłóż/zrobione), ulubione miejsca na ekranie STAN (jedno dotknięcie = nawigacja w Google Maps/Sygic/Mapy.com)"
+    "sha256":  "e1318213f28d2f67b5d571d119a8c0fd7f01f1bf1017aa4a2c0f08bcb4af89fe",
+    "releaseNotes":  "1.13.1: ekran STAN na mniejszym ekranie radia (1024x600): kompaktowe kafelki ulubionych i karta przypomnień, wskaźnik paliwa znów nieobcięty"
 }
