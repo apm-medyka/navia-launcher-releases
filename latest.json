@@ -1,8 +1,8 @@
 {
-    "versionCode":  74,
-    "versionName":  "1.12.17",
-    "url":  "https://github.com/apm-medyka/navia-launcher-releases/releases/latest/download/navia-launcher-1.12.17.apk",
-    "sizeBytes":  76121253,
-    "sha256":  "36fd82037af86a947bd1fc4bebd55379ea8a2b939d3bb135c380ce70878cd873",
-    "releaseNotes":  "1.12.17: briefing IMGW przy braku ostrzeżeń nie kończy się błędem (pusta odpowiedź API = brak ostrzeżeń)"
+    "versionCode":  75,
+    "versionName":  "1.13.0",
+    "url":  "https://github.com/apm-medyka/navia-launcher-releases/releases/latest/download/navia-launcher-1.13.0.apk",
+    "sizeBytes":  76252325,
+    "sha256":  "5969f3d641200cd6ec5d43c2d2ee610af2539a8ef3b430f10d00bf861cc4be2d",
+    "releaseNotes":  "1.13.0: Dziennik tras (mapka trasy, paliwo i koszt, podsumowanie miesiąca), przypomnienia serwisowe (data/przebieg, komunikat przy starcie, odłóż/zrobione), ulubione miejsca na ekranie STAN (jedno dotknięcie = nawigacja w Google Maps/Sygic/Mapy.com)"
 }
