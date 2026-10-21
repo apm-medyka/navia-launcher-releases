@@ -1,8 +1,8 @@
 {
-    "versionCode":  78,
-    "versionName":  "1.14.1",
-    "url":  "https://github.com/apm-medyka/navia-launcher-releases/releases/latest/download/navia-launcher-1.14.1.apk",
-    "sizeBytes":  76301477,
-    "sha256":  "de5d2fcfa362142117d02d1d114617997ea7db146a1a98cc541131397ac5add7",
-    "releaseNotes":  "1.14.1: dane drogowe całej Polski pobierają się w tle przez dowolną sieć (najpierw okolica auta); opcja \u0027Cała Polska tylko przez Wi-Fi\u0027 w Ustawienia \u003e Aktualizacje \u003e Dane drogowe (domyślnie wyłączona)."
+    "versionCode":  79,
+    "versionName":  "1.14.2",
+    "url":  "https://github.com/apm-medyka/navia-launcher-releases/releases/latest/download/navia-launcher-1.14.2.apk",
+    "sizeBytes":  76317861,
+    "sha256":  "4ec81b504aa0308c35d8bbdd8d68fc7d77fad9745db650325552a947ae3d1775",
+    "releaseNotes":  "Dane drogowe: manifest pobierany od razu po starcie i wlaczeniu ekranu w kazdej sieci (naprawa). Wieksze ODTWARZANE i listy BIBLIOTEKI, lupa wyszukiwania w APLIKACJE, okragle przyciski RADIO, wznawianie ostatniego zrodla (radio lub MP3 w tym samym miejscu)."
 }
