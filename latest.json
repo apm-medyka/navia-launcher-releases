@@ -1,8 +1,8 @@
 {
-    "versionCode":  79,
-    "versionName":  "1.14.2",
-    "url":  "https://github.com/apm-medyka/navia-launcher-releases/releases/latest/download/navia-launcher-1.14.2.apk",
-    "sizeBytes":  76317861,
-    "sha256":  "4ec81b504aa0308c35d8bbdd8d68fc7d77fad9745db650325552a947ae3d1775",
-    "releaseNotes":  "Dane drogowe: manifest pobierany od razu po starcie i wlaczeniu ekranu w kazdej sieci (naprawa). Wieksze ODTWARZANE i listy BIBLIOTEKI, lupa wyszukiwania w APLIKACJE, okragle przyciski RADIO, wznawianie ostatniego zrodla (radio lub MP3 w tym samym miejscu)."
+    "versionCode":  80,
+    "versionName":  "1.14.3",
+    "url":  "https://github.com/apm-medyka/navia-launcher-releases/releases/latest/download/navia-launcher-1.14.3.apk",
+    "sizeBytes":  76334245,
+    "sha256":  "c186007f314bcd4af8ab9d84c7242393d6eed24ac33058456a30bf3b35811b64",
+    "releaseNotes":  "Pewniejszy znak ograniczenia: limity ustawowe (teren zabudowany 50 z granic miejscowosci i znakow D-42/D-43, poza 90, strefa zamieszkania 20, autostrada 140, ekspresowa 120/100) pokazywane jako ~, rozstrzyganie niejednoznacznych drog (kierunek, ciaglosc). Naprawa awarii uslugi ostrzezen w tle."
 }
