@@ -1,8 +1,8 @@
 {
-    "versionCode":  90,
-    "versionName":  "1.14.13",
-    "url":  "https://github.com/apm-medyka/navia-launcher-releases/releases/download/v1.14.13/navia-launcher-1.14.13.apk",
-    "sizeBytes":  67283583,
-    "sha256":  "6c34b27cf195051152771af9a41d369408c3ddbe5f076a11bd52c34ad5edf103",
-    "releaseNotes":  "Stabilność: błąd w zadaniu w tle nie zamyka już aplikacji (jest tylko zapisywany w diagnostyce), dane z CAN/FYT są zabezpieczone przed pustymi wartościami, Podgląd CAN startuje dopiero po otwarciu jego ekranu (nie przy starcie radia)."
+    "versionCode":  91,
+    "versionName":  "1.14.14",
+    "url":  "https://github.com/apm-medyka/navia-launcher-releases/releases/download/v1.14.14/navia-launcher-1.14.14.apk",
+    "sizeBytes":  67304119,
+    "sha256":  "7fd27523f207e3d3c76af24c565f87b715bc83949d0b21db0779b8eda4d0b6ea",
+    "releaseNotes":  "Tryb serwisowy (warsztat): jednym przyciskiem w Ustawienia \u003e Bezpieczeństwo blokuje historię tras, ulubione miejsca, ustawienia, logi, Diagnostykę VAG i Podgląd CAN; radio, muzyka i nawigacja działają; wyłączenie wymaga PIN-u. Opcjonalnie wstrzymuje wysyłkę logów. Blokada aplikacji PIN-em (Ustawienia Androida, launcher fabryczny, ustawienia FYT, menedżer plików, przeglądarka) przez usługę ułatwień dostępu „Navia - blokada aplikacji”. Zawiera poprawki stabilności z 1.14.13."
 }
