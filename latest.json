@@ -1,8 +1,8 @@
 {
-    "versionCode":  88,
-    "versionName":  "1.14.11",
-    "url":  "https://github.com/apm-medyka/navia-launcher-releases/releases/latest/download/navia-launcher-1.14.11.apk",
+    "versionCode":  89,
+    "versionName":  "1.14.12",
+    "url":  "https://github.com/apm-medyka/navia-launcher-releases/releases/download/v1.14.12/navia-launcher-1.14.12.apk",
     "sizeBytes":  67283583,
-    "sha256":  "9161f3c1de32729073f424485a5dd24bb0068a4243b014e7e1b7e6fc58198df5",
-    "releaseNotes":  "Tryb awaryjny z przyciskiem AKTUALIZUJ: po 3 awariach przy starcie Navia otwiera ekran ratunkowy (osobny, lekki proces), który sam pobiera i instaluje nową wersję bez pendrive. Ikona \"Navia - ratunek\" na liście aplikacji. Przycisk \"Uruchom Navia normalnie\"."
+    "sha256":  "1efaf02e219664e06db6bf3cdb2d4b46adc0e39fc32c635c0964045e648d246d",
+    "releaseNotes":  "Tryb awaryjny z przyciskiem AKTUALIZUJ: po 3 awariach przy starcie Navia otwiera ekran ratunkowy (osobny, lekki proces), który sam pobiera, sprawdza i instaluje nową wersję bez pendrive. Ikona \"Navia - ratunek\" na liście aplikacji. Po aktualizacji Navia startuje normalnie."
 }
