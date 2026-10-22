@@ -1,8 +1,8 @@
 {
-    "versionCode":  85,
-    "versionName":  "1.14.8",
-    "url":  "https://github.com/apm-medyka/navia-launcher-releases/releases/latest/download/navia-launcher-1.14.8.apk",
-    "sizeBytes":  76487146,
-    "sha256":  "b1e973f1eac554e80510bd55fbea7bb0edfd16632d655f9df59e0b68aba65cfe",
-    "releaseNotes":  "Diagnostyka: Podgląd CAN (Ustawienia \u003e System) - wszystkie id canboxa z wartościami i licznikami zmian, log can_signal przez 30 min."
+    "versionCode":  86,
+    "versionName":  "1.14.9",
+    "url":  "https://github.com/apm-medyka/navia-launcher-releases/releases/latest/download/navia-launcher-1.14.9.apk",
+    "sizeBytes":  76491783,
+    "sha256":  "f39e3df4a33a1aa5b3a5ad226b9503e594e47dda7ccdbe741c5aeb17c48b12b7",
+    "releaseNotes":  "GDDKiA: dołączone certyfikaty Certum dla kpd.gddkia.gov.pl (radio FYT nie ufało łańcuchowi); usunięty martwy adres archiwum."
 }
