@@ -1,8 +1,8 @@
 {
-    "versionCode":  83,
-    "versionName":  "1.14.6",
-    "url":  "https://github.com/apm-medyka/navia-launcher-releases/releases/latest/download/navia-launcher-1.14.6.apk",
-    "sizeBytes":  76421610,
-    "sha256":  "268146a993688dd996c26417ecb8de5c1fddfef37f0d69756939ac6b626b8f9c",
-    "releaseNotes":  "Muzyka \u003e Biblioteka \u003e Foldery: ikona płyty CD przy folderach; długie przytrzymanie zmienia wyświetlaną nazwę folderu (zapamiętywaną)."
+    "versionCode":  84,
+    "versionName":  "1.14.7",
+    "url":  "https://github.com/apm-medyka/navia-launcher-releases/releases/latest/download/navia-launcher-1.14.7.apk",
+    "sizeBytes":  76454378,
+    "sha256":  "c3e366fd9398bcca2dc073498693ba27c1cd71411c0eb6ea9d9996fbf79c07b5",
+    "releaseNotes":  "Muzyka: 8 ulubionych albumów (przytrzymaj MUZYKA); menu folderu (zmień nazwę / ulubione) z gwiazdką; ikona płyty CD zamiast folderu."
 }
