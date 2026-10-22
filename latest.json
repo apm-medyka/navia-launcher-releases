@@ -1,8 +1,8 @@
 {
-    "versionCode":  91,
-    "versionName":  "1.14.14",
-    "url":  "https://github.com/apm-medyka/navia-launcher-releases/releases/download/v1.14.14/navia-launcher-1.14.14.apk",
-    "sizeBytes":  67304119,
-    "sha256":  "7fd27523f207e3d3c76af24c565f87b715bc83949d0b21db0779b8eda4d0b6ea",
-    "releaseNotes":  "Tryb serwisowy (warsztat): jednym przyciskiem w Ustawienia \u003e Bezpieczeństwo blokuje historię tras, ulubione miejsca, ustawienia, logi, Diagnostykę VAG i Podgląd CAN; radio, muzyka i nawigacja działają; wyłączenie wymaga PIN-u. Opcjonalnie wstrzymuje wysyłkę logów. Blokada aplikacji PIN-em (Ustawienia Androida, launcher fabryczny, ustawienia FYT, menedżer plików, przeglądarka) przez usługę ułatwień dostępu „Navia - blokada aplikacji”. Zawiera poprawki stabilności z 1.14.13."
+    "versionCode":  92,
+    "versionName":  "1.14.15",
+    "url":  "https://github.com/apm-medyka/navia-launcher-releases/releases/download/v1.14.15/navia-launcher-1.14.15.apk",
+    "sizeBytes":  67320503,
+    "sha256":  "f1e62fc8c57184fa0af694111b75fafa86d49d625fa166f941c30f4022230d67",
+    "releaseNotes":  "Tryb serwisowy: włączenie, wyłączenie oraz każda zmiana jego ustawień (lista blokowanych aplikacji, „Blokuj zawsze”, wstrzymanie wysyłki logów) wymaga PIN-u launchera."
 }
