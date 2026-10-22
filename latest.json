@@ -1,8 +1,8 @@
 {
-    "versionCode":  86,
-    "versionName":  "1.14.9",
-    "url":  "https://github.com/apm-medyka/navia-launcher-releases/releases/latest/download/navia-launcher-1.14.9.apk",
-    "sizeBytes":  76491783,
-    "sha256":  "f39e3df4a33a1aa5b3a5ad226b9503e594e47dda7ccdbe741c5aeb17c48b12b7",
-    "releaseNotes":  "GDDKiA: dołączone certyfikaty Certum dla kpd.gddkia.gov.pl (radio FYT nie ufało łańcuchowi); usunięty martwy adres archiwum."
+    "versionCode":  87,
+    "versionName":  "1.14.10",
+    "url":  "https://github.com/apm-medyka/navia-launcher-releases/releases/latest/download/navia-launcher-1.14.10.apk",
+    "sizeBytes":  67283583,
+    "sha256":  "db757aacce9924958c7d74a0db3c7980312fd4936f3f1a9a218ed1dd382e838b",
+    "releaseNotes":  "Naprawa: launcher zamykał się zaraz po starcie (tryb awaryjny radia) – NPE w Podglądzie CAN przy pustym (null) tekście z FYT. Logowanie sygnałów CAN nie może już wywrócić aplikacji."
 }
