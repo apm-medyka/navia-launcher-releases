@@ -1,8 +1,8 @@
 {
-    "versionCode":  89,
-    "versionName":  "1.14.12",
-    "url":  "https://github.com/apm-medyka/navia-launcher-releases/releases/download/v1.14.12/navia-launcher-1.14.12.apk",
+    "versionCode":  90,
+    "versionName":  "1.14.13",
+    "url":  "https://github.com/apm-medyka/navia-launcher-releases/releases/download/v1.14.13/navia-launcher-1.14.13.apk",
     "sizeBytes":  67283583,
-    "sha256":  "1efaf02e219664e06db6bf3cdb2d4b46adc0e39fc32c635c0964045e648d246d",
-    "releaseNotes":  "Tryb awaryjny z przyciskiem AKTUALIZUJ: po 3 awariach przy starcie Navia otwiera ekran ratunkowy (osobny, lekki proces), który sam pobiera, sprawdza i instaluje nową wersję bez pendrive. Ikona \"Navia - ratunek\" na liście aplikacji. Po aktualizacji Navia startuje normalnie."
+    "sha256":  "6c34b27cf195051152771af9a41d369408c3ddbe5f076a11bd52c34ad5edf103",
+    "releaseNotes":  "Stabilność: błąd w zadaniu w tle nie zamyka już aplikacji (jest tylko zapisywany w diagnostyce), dane z CAN/FYT są zabezpieczone przed pustymi wartościami, Podgląd CAN startuje dopiero po otwarciu jego ekranu (nie przy starcie radia)."
 }
