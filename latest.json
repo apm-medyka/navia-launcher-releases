@@ -1,8 +1,8 @@
 {
-    "versionCode":  80,
-    "versionName":  "1.14.3",
-    "url":  "https://github.com/apm-medyka/navia-launcher-releases/releases/latest/download/navia-launcher-1.14.3.apk",
+    "versionCode":  81,
+    "versionName":  "1.14.4",
+    "url":  "https://github.com/apm-medyka/navia-launcher-releases/releases/latest/download/navia-launcher-1.14.4.apk",
     "sizeBytes":  76334245,
-    "sha256":  "c186007f314bcd4af8ab9d84c7242393d6eed24ac33058456a30bf3b35811b64",
-    "releaseNotes":  "Pewniejszy znak ograniczenia: limity ustawowe (teren zabudowany 50 z granic miejscowosci i znakow D-42/D-43, poza 90, strefa zamieszkania 20, autostrada 140, ekspresowa 120/100) pokazywane jako ~, rozstrzyganie niejednoznacznych drog (kierunek, ciaglosc). Naprawa awarii uslugi ostrzezen w tle."
+    "sha256":  "a9600d233a5b55f66d79a7efffea287ee013680a8b4020699798ab72e0172e12",
+    "releaseNotes":  "Utrudnienia GDDKiA: nowe źródło (KPD, situations.json) zamiast wyłączonego utrdane.xml, z zapasowym adresem i logowaniem błędów HTTP."
 }
