@@ -1,8 +1,8 @@
 {
-    "versionCode":  87,
-    "versionName":  "1.14.10",
-    "url":  "https://github.com/apm-medyka/navia-launcher-releases/releases/latest/download/navia-launcher-1.14.10.apk",
+    "versionCode":  88,
+    "versionName":  "1.14.11",
+    "url":  "https://github.com/apm-medyka/navia-launcher-releases/releases/latest/download/navia-launcher-1.14.11.apk",
     "sizeBytes":  67283583,
-    "sha256":  "db757aacce9924958c7d74a0db3c7980312fd4936f3f1a9a218ed1dd382e838b",
-    "releaseNotes":  "Naprawa: launcher zamykał się zaraz po starcie (tryb awaryjny radia) – NPE w Podglądzie CAN przy pustym (null) tekście z FYT. Logowanie sygnałów CAN nie może już wywrócić aplikacji."
+    "sha256":  "9161f3c1de32729073f424485a5dd24bb0068a4243b014e7e1b7e6fc58198df5",
+    "releaseNotes":  "Tryb awaryjny z przyciskiem AKTUALIZUJ: po 3 awariach przy starcie Navia otwiera ekran ratunkowy (osobny, lekki proces), który sam pobiera i instaluje nową wersję bez pendrive. Ikona \"Navia - ratunek\" na liście aplikacji. Przycisk \"Uruchom Navia normalnie\"."
 }
