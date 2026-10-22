@@ -1,8 +1,8 @@
 {
-    "versionCode":  82,
-    "versionName":  "1.14.5",
-    "url":  "https://github.com/apm-medyka/navia-launcher-releases/releases/latest/download/navia-launcher-1.14.5.apk",
-    "sizeBytes":  76405226,
-    "sha256":  "1ca7203b48993d25803919b40a8fab61aaaa5124f644d46c064b86ccad96dfd1",
-    "releaseNotes":  "Diagnostyka VAG (Ustawienia \u003e System): własny auto-skan TP2.0/KWP przez adapter OBD Bluetooth, tylko odczyt, tylko na postoju; eksport JSON; dekoder kodowania offline."
+    "versionCode":  83,
+    "versionName":  "1.14.6",
+    "url":  "https://github.com/apm-medyka/navia-launcher-releases/releases/latest/download/navia-launcher-1.14.6.apk",
+    "sizeBytes":  76421610,
+    "sha256":  "268146a993688dd996c26417ecb8de5c1fddfef37f0d69756939ac6b626b8f9c",
+    "releaseNotes":  "Muzyka \u003e Biblioteka \u003e Foldery: ikona płyty CD przy folderach; długie przytrzymanie zmienia wyświetlaną nazwę folderu (zapamiętywaną)."
 }
