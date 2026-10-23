@@ -1,8 +1,8 @@
 {
-    "versionCode":  92,
-    "versionName":  "1.14.15",
-    "url":  "https://github.com/apm-medyka/navia-launcher-releases/releases/download/v1.14.15/navia-launcher-1.14.15.apk",
-    "sizeBytes":  67320503,
-    "sha256":  "f1e62fc8c57184fa0af694111b75fafa86d49d625fa166f941c30f4022230d67",
-    "releaseNotes":  "Tryb serwisowy: włączenie, wyłączenie oraz każda zmiana jego ustawień (lista blokowanych aplikacji, „Blokuj zawsze”, wstrzymanie wysyłki logów) wymaga PIN-u launchera."
+    "versionCode":  93,
+    "versionName":  "1.14.16",
+    "url":  "https://github.com/apm-medyka/navia-launcher-releases/releases/download/v1.14.16/navia-launcher-1.14.16.apk",
+    "sizeBytes":  76575772,
+    "sha256":  "823e4742bc35c8043b813870c5b33efded37abcf9afd469cf265e7a8d9daeb67",
+    "releaseNotes":  "Poprawka zamykania launchera przy odpalaniu auta. Nowość: zapis miejsca parkowania po zgaszeniu silnika (do podglądu na telefonie)."
 }
