@@ -1,8 +1,8 @@
 {
-    "versionCode":  94,
-    "versionName":  "1.14.17",
-    "url":  "https://github.com/apm-medyka/navia-launcher-releases/releases/download/v1.14.17/navia-launcher-1.14.17.apk",
-    "sizeBytes":  76592156,
-    "sha256":  "870f256a7fddd4f198f7cab0bc02f9ef9aa8097454b65910dbbd3028c257789c",
-    "releaseNotes":  "Poprawka zapisu miejsca parkowania: wysyłana jest pozycja z chwili zgaszenia, nie z kolejnego odpalenia. Na stronie widać, z której godziny jest pozycja."
+    "versionCode":  95,
+    "versionName":  "1.15.0",
+    "url":  "https://github.com/apm-medyka/navia-launcher-releases/releases/download/v1.15.0/navia-launcher-1.15.0.apk",
+    "sizeBytes":  76723244,
+    "sha256":  "1dfce1d607f7189587145399e1e5e490f848482537ead61986f44c603e0b184d",
+    "releaseNotes":  "Obsługa OBD przez Vgate iCar Pro (Bluetooth). Parowanie adaptera z poziomu launchera: Ustawienia → Pojazd → OBD → „Szukaj adaptera” (PIN 1234). Dane na żywo, spalanie, kody błędów i ostrzeżenia głosowe. Launcher tylko odczytuje dane; kasowanie błędów wyłącznie po potwierdzeniu."
 }
