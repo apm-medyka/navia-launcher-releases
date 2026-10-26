@@ -1,8 +1,8 @@
 {
-    "versionCode":  95,
-    "versionName":  "1.15.0",
-    "url":  "https://github.com/apm-medyka/navia-launcher-releases/releases/download/v1.15.0/navia-launcher-1.15.0.apk",
-    "sizeBytes":  76723244,
-    "sha256":  "1dfce1d607f7189587145399e1e5e490f848482537ead61986f44c603e0b184d",
-    "releaseNotes":  "Obsługa OBD przez Vgate iCar Pro (Bluetooth). Parowanie adaptera z poziomu launchera: Ustawienia → Pojazd → OBD → „Szukaj adaptera” (PIN 1234). Dane na żywo, spalanie, kody błędów i ostrzeżenia głosowe. Launcher tylko odczytuje dane; kasowanie błędów wyłącznie po potwierdzeniu."
+    "versionCode":  96,
+    "versionName":  "1.15.1",
+    "url":  "https://github.com/apm-medyka/navia-launcher-releases/releases/latest/download/navia-launcher-1.15.1.apk",
+    "sizeBytes":  76756012,
+    "sha256":  "1240be4741b54540d895f13ef09604ebd862028156af93ca6a0d9646ffe0f65a",
+    "releaseNotes":  "OBD: czytelniejsza lista adapterów (adaptery OBD na górze, końcówka MAC i siła sygnału, urządzenia bez nazwy ukryte, potwierdzenie przed połączeniem z nie-OBD, podpowiedź gdy adapter śpi). Nowość: adaptery Bluetooth LE (Carista EVO, vLinker BLE, iOS-Vlink) – Ustawienia → Pojazd → OBD → „Szukaj adaptera BLE”, bez parowania. Dane na żywo, kody błędów i Diagnostyka VAG działają przez oba typy adapterów. Launcher tylko odczytuje dane; kasowanie błędów wyłącznie po potwierdzeniu."
 }
