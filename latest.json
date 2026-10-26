@@ -1,8 +1,8 @@
 {
-    "versionCode":  98,
-    "versionName":  "1.15.3",
-    "url":  "https://github.com/apm-medyka/navia-launcher-releases/releases/latest/download/navia-launcher-1.15.3.apk",
-    "sizeBytes":  76805164,
-    "sha256":  "e507b9872544b27e20d4fc3478e473bbf1b9994ea2fd5efc52e86429bf518c40",
-    "releaseNotes":  "1.15.3: nowy przycisk „Wykryj adapter i auto” (tylko odczyt: identyfikacja adaptera, wszystkie protokoły OBD, VIN, TP2.0/UDS, raport z UDOSTĘPNIJ); BLE: urządzenia bez nazwy pod „Pokaż wszystkie” z RSSI; ręczne połączenie BLE po MAC; logi środowiska Bluetooth i najsilniejszych nieznanych urządzeń."
+    "versionCode":  99,
+    "versionName":  "1.15.4",
+    "url":  "https://github.com/apm-medyka/navia-launcher-releases/releases/latest/download/navia-launcher-1.15.4.apk",
+    "sizeBytes":  76821548,
+    "sha256":  "c99a88bdc6b9627c0048285dc97f26164e0dda4e23dc3d45de70fe17006c4616",
+    "releaseNotes":  "1.15.4: odczyt OBD na żywo wraca automatycznie po skanie VAG i po „Wykryj adapter i auto” (także po zamknięciu okna, błędzie lub ruszeniu); ponowna próba ATZ przy budzeniu adaptera."
 }
