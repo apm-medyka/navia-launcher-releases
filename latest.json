@@ -1,8 +1,8 @@
 {
-    "versionCode": 102,
-    "versionName": "1.15.7",
-    "url": "https://github.com/apm-medyka/navia-launcher-releases/releases/latest/download/navia-launcher-1.15.7.apk",
+    "versionCode": 103,
+    "versionName": "1.15.8",
+    "url": "https://github.com/apm-medyka/navia-launcher-releases/releases/latest/download/navia-launcher-1.15.8.apk",
     "sizeBytes": 76854316,
-    "sha256": "5bdbf0915332ea36a67ded8d05b6864b901e80f7371fea2538b8b0f0e7c9df14",
-    "releaseNotes": "Sonda Carista: gdy Carista jest na ekranie launcher oddaje adapter; polaczenia Bluetooth adaptera trafiaja do logow; po sesji Carista (postoj, zaplon) odczyt stanu adaptera bez resetu i pelny test z sonda TP2.0. Tylko odczyt."
+    "sha256": "163f8c34b040002474bfb4163244e66d6202d19a716db2d04d248eedee6d0b9d",
+    "releaseNotes": "Poprawka: test adaptera po aktualizacji i test po Cariscie nie startowaly, bo auto nie podaje stanu zaplonu; teraz nieznany zaplon liczy sie jak wlaczony (nadal tylko na postoju). Dodatkowe logi polaczenia adaptera przy Cariscie."
 }
