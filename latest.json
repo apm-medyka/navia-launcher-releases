@@ -1,8 +1,8 @@
 {
-    "versionCode": 103,
-    "versionName": "1.15.8",
-    "url": "https://github.com/apm-medyka/navia-launcher-releases/releases/latest/download/navia-launcher-1.15.8.apk",
+    "versionCode": 104,
+    "versionName": "1.15.9",
+    "url": "https://github.com/apm-medyka/navia-launcher-releases/releases/latest/download/navia-launcher-1.15.9.apk",
     "sizeBytes": 76854316,
-    "sha256": "163f8c34b040002474bfb4163244e66d6202d19a716db2d04d248eedee6d0b9d",
-    "releaseNotes": "Poprawka: test adaptera po aktualizacji i test po Cariscie nie startowaly, bo auto nie podaje stanu zaplonu; teraz nieznany zaplon liczy sie jak wlaczony (nadal tylko na postoju). Dodatkowe logi polaczenia adaptera przy Cariscie."
+    "sha256": "be2fff934943e05b1c941d0a11e0301adf5659b81616e44893db8dcbf3e5c892",
+    "releaseNotes": "Wybor urzadzenia spoza OBD (np. telefonu) z listy sparowanych wymaga potwierdzenia; kazdy wybor adaptera trafia do logow. Po aktualizacji wybierz z powrotem Carista EVO."
 }
