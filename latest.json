@@ -1,8 +1,8 @@
 {
-    "versionCode": 100,
-    "versionName": "1.15.5",
-    "url": "https://github.com/apm-medyka/navia-launcher-releases/releases/latest/download/navia-launcher-1.15.5.apk",
-    "sizeBytes": 78840815,
-    "sha256": "0e8d8366bae660e715d121db93bc80918dc36f2f3eef769890a8ad7d8e5635c8",
-    "releaseNotes": "Sonda TP2.0 (12 wariantow: bramka, silnik, DSG, BCM, modul 52; ELM i STN; rozne filtry; powtorka po 2 i 4 s). Test adaptera i auta uruchamia sie raz sam po aktualizacji (na postoju, zaplon wlaczony) i trafia do logow. Tylko odczyt."
+    "versionCode": 101,
+    "versionName": "1.15.6",
+    "url": "https://github.com/apm-medyka/navia-launcher-releases/releases/latest/download/navia-launcher-1.15.6.apk",
+    "sizeBytes": 76837932,
+    "sha256": "983a82f877177be0a3d7dd020b7afc1697198ea77c287b57f1735aac91108503",
+    "releaseNotes": "Pasek postepu testu adaptera i auta: etap n/27 z nazwa, wynik na koniec. Mozna go przesuwac palcem, nie blokuje launchera. Tapniecie zamyka zakonczony pasek."
 }
