@@ -1,8 +1,8 @@
 {
-    "versionCode": 104,
-    "versionName": "1.15.9",
-    "url": "https://github.com/apm-medyka/navia-launcher-releases/releases/latest/download/navia-launcher-1.15.9.apk",
+    "versionCode": 105,
+    "versionName": "1.15.10",
+    "url": "https://github.com/apm-medyka/navia-launcher-releases/releases/latest/download/navia-launcher-1.15.10.apk",
     "sizeBytes": 76854316,
-    "sha256": "be2fff934943e05b1c941d0a11e0301adf5659b81616e44893db8dcbf3e5c892",
-    "releaseNotes": "Wybor urzadzenia spoza OBD (np. telefonu) z listy sparowanych wymaga potwierdzenia; kazdy wybor adaptera trafia do logow. Po aktualizacji wybierz z powrotem Carista EVO."
+    "sha256": "1bc6e27e002f5fad9f50265a1d85d3172b863afdbeaa9a8ce5c50a37ab86d90f",
+    "releaseNotes": "Test po Cariscie: zrzut parametrow adaptera (ATPPS), nasluch magistrali przed i po otwarciu kanalu, ponowna proba bramki zaraz po naszym resecie. Tylko odczyt."
 }
