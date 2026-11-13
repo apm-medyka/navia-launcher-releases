@@ -1,8 +1,8 @@
 {
-    "versionCode":  107,
-    "versionName":  "1.15.12",
-    "url":  "https://github.com/apm-medyka/navia-launcher-releases/releases/latest/download/navia-launcher-1.15.12.apk",
-    "sizeBytes":  76854316,
-    "sha256":  "b3eff32bca487dae3f59544b920b8996cc2cb46e0a6ab334d63cecb946075ec2",
-    "releaseNotes":  "Wylaczone podsumowanie trasy po jezdzie (dziennik tras zostaje) i automatyczny podglad przedniej kamery przy parkowaniu. Oba przelaczniki zostaja w ustawieniach. Kamera cofania bez zmian."
+    "versionCode":  108,
+    "versionName":  "1.15.13",
+    "url":  "https://github.com/apm-medyka/navia-launcher-releases/releases/latest/download/navia-launcher-1.15.13.apk",
+    "sizeBytes":  76887084,
+    "sha256":  "865f4e2ae4e2b1d25913b97b185a79503d5bf058b38180a0d785d72d35462b1f",
+    "releaseNotes":  "Diagnostyka VAG: nowy ekran Kodowanie (odczyt) - tylko odczyt kodowania modulow i kopia zapasowa, blokada wszystkich zapisow do sterownikow, odczyt tylko na postoju (zaplon, hamulec reczny), poprawione adresy modulow TP2.0 i start adaptera po Cariscie."
 }
