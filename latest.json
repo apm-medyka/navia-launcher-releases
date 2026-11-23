@@ -1,8 +1,8 @@
 {
-    "versionCode":  108,
-    "versionName":  "1.15.13",
-    "url":  "https://github.com/apm-medyka/navia-launcher-releases/releases/latest/download/navia-launcher-1.15.13.apk",
-    "sizeBytes":  76887084,
-    "sha256":  "865f4e2ae4e2b1d25913b97b185a79503d5bf058b38180a0d785d72d35462b1f",
-    "releaseNotes":  "Diagnostyka VAG: nowy ekran Kodowanie (odczyt) - tylko odczyt kodowania modulow i kopia zapasowa, blokada wszystkich zapisow do sterownikow, odczyt tylko na postoju (zaplon, hamulec reczny), poprawione adresy modulow TP2.0 i start adaptera po Cariscie."
+    "versionCode":  109,
+    "versionName":  "1.15.14",
+    "url":  "https://github.com/apm-medyka/navia-launcher-releases/releases/latest/download/navia-launcher-1.15.14.apk",
+    "sizeBytes":  76903468,
+    "sha256":  "f1eea4d91f5adec5113a0d5a2e8c90b67db6670b8b7e06466f89a1f4a28ffc46",
+    "releaseNotes":  "Radio internetowe wznawia sie po wlaczeniu zaplonu (po uspieniu radia), nie tylko po pelnym starcie. Czeka na siec do 30 s. Przelacznik wylaczony lub radio zatrzymane recznie - bez zmian."
 }
